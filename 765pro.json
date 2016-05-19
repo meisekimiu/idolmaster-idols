@@ -127,6 +127,134 @@
 				"Training",
 				"Photography"
 			]
+		},
+		{
+			"name": {
+				"kanji": "萩原雪歩",
+				"kana": "はぎわら　ゆきほ",
+				"translit": "Hagiwara Yukiho",
+				"western": "Yukiho Hagiwara"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": "浅倉杏美",
+					"kana": "あさくら　あずみ",
+					"translit": "Asakura Azumi",
+					"western": "Azumi Asakura"
+				},
+				"nicknames": [
+					{
+						"jp": "あずみん",
+						"translit": "Azumin"
+					}
+				],
+				"birthday": {
+					"month": 2,
+					"day": 15,
+					"year": 1987,
+					"format": "1987-02-15",
+					"format_jp": "2月15日"
+				},
+				"height": "156cm",
+				"bloodtype": "A",
+				"agency": "ARTSVISION",
+				"gender": "female"
+			},
+			"age": 17,
+			"age_str": "17歳",
+			"height": "155cm",
+			"weight": "42kg",
+			"birthday": {
+				"month": 12,
+				"day": 24,
+				"format": "12-24",
+				"format_jp": "12月24日"
+			},
+			"bloodtype": "A",
+			"sizes": {
+				"value": "81-56-81",
+				"b": "81",
+				"w": "56",
+				"h": "81"
+			},
+			"color": "#CDD3DC",
+			"ml_type": "visual",
+			"dere_type": "passion",
+			"gender": "female",
+			"hobbies": [
+				"詩を書くこと",
+				"日本茶",
+				"ブログ"
+			],
+			"hoobies": [
+				"Writing Poetry",
+				"Tea",
+				"Blogs"
+			]
+		},
+		{
+			"name": {
+				"kanji": "高槻やよい",
+				"kana": "たかつき　やよい",
+				"translit": "Takatsuki Yayoi",
+				"western": "Yayoi Takatsuki"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": "仁後真耶子",
+					"kana": "にご　まやこ",
+					"translit": "Nigo Mayako",
+					"western": "Mayako Nigo"
+				},
+				"nicknames": [
+					{
+						"jp": "まよちょん",
+						"translit": "Mayochon"
+					}
+				],
+				"birthday": {
+					"month": 12,
+					"day": 2,
+					"year": 1979,
+					"format": "1979-12-02",
+					"format_jp": "12月2日"
+				},
+				"height": "??cm",
+				"bloodtype": "A",
+				"agency": "I'm Enterprise",
+				"gender": "female"
+			},
+			"age": 14,
+			"age_str": "14歳",
+			"height": "145cm",
+			"weight": "37kg",
+			"birthday": {
+				"month": 3,
+				"day": 25,
+				"format": "3-25",
+				"format_jp": "3月25日"
+			},
+			"bloodtype": "O",
+			"sizes": {
+				"value": "74-54-78",
+				"b": "74",
+				"w": "54",
+				"h": "78"
+			},
+			"color": "#f96301",
+			"ml_type": "dance",
+			"dere_type": "cute",
+			"gender": "female",
+			"hobbies": [
+				"オセロ",
+				"野球",
+				"家庭菜園"
+			],
+			"hoobies": [
+				"Othello",
+				"Baseball",
+				"Gardening at home"
+			]
 		}
 	]
 }
