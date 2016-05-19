@@ -1,0 +1,68 @@
+{
+	"idols": [
+		{
+			"name": {
+				"kanji": "天海春香",
+				"kana": "あまみ　はるか",
+				"translit": "Amami Haruka",
+				"western": "Haruka Amami"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": "中村繪里子",
+					"kana": "なかむら　えりこ",
+					"translit": "Nakamura Eriko",
+					"western": "Eriko Nakamura"
+				},
+				"nicknames": [
+					{
+						"jp": "えりりん",
+						"translit": "Eririn"
+					}
+				],
+				"birthday": {
+					"month": 11,
+					"day": 19,
+					"year": 1981,
+					"format": "1981-11-19",
+					"format_jp": "11月19日"
+				},
+				"height": "155cm",
+				"bloodtype": "O",
+				"agency": "ARTSVISION",
+				"gender": "female"
+			},
+			"age": 17,
+			"age_str": "17歳",
+			"height": "158cm",
+			"weight": "46kg",
+			"birthday": {
+				"month": 4,
+				"day": 3,
+				"format": "04-03",
+				"format_jp": "4月3日"
+			},
+			"bloodtype": "O",
+			"sizes": {
+				"value": "83-56-82",
+				"b": "83",
+				"w": "56",
+				"h": "82"
+			},
+			"color": "#e33c41",
+			"ml_type": "vocal",
+			"dere_type": "cute",
+			"gender": "female",
+			"hobbies": [
+				"おかし作り",
+				"カラオケ",
+				"長電話"
+			],
+			"hoobies": [
+				"Baking cakes",
+				"Karaoke",
+				"Long Phone Calls"
+			]
+		}
+	]
+}
