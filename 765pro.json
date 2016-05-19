@@ -63,6 +63,70 @@
 				"Karaoke",
 				"Long Phone Calls"
 			]
+		},
+		{
+			"name": {
+				"kanji": "如月千早",
+				"kana": "きさらぎ　ちはや",
+				"translit": "Kisaragi Chihaya",
+				"western": "Chihaya Kisaragi"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": "今井麻美",
+					"kana": "いまい　あさみ",
+					"translit": "Imai Asami",
+					"western": "Asami Imai"
+				},
+				"nicknames": [
+					{
+						"jp": "ミンゴス",
+						"translit": "Mingosu"
+					}
+				],
+				"birthday": {
+					"month": 5,
+					"day": 16,
+					"year": 1977,
+					"format": "1977-05-16",
+					"format_jp": "5月16日"
+				},
+				"height": "158cm",
+				"bloodtype": "O",
+				"agency": "EARLY WING",
+				"gender": "female"
+			},
+			"age": 16,
+			"age_str": "16歳",
+			"height": "162cm",
+			"weight": "41kg",
+			"birthday": {
+				"month": 2,
+				"day": 25,
+				"format": "02-25",
+				"format_jp": "2月25日"
+			},
+			"bloodtype": "A",
+			"sizes": {
+				"value": "72-55-78",
+				"b": "72",
+				"w": "55",
+				"h": "78"
+			},
+			"color": "#344fd4",
+			"ml_type": "vocal",
+			"dere_type": "cool",
+			"gender": "female",
+			"hobbies": [
+				"音楽鑑賞",
+				"トレーニング",
+				"写真"
+			],
+			"hoobies": [
+				"Musical Appreciation",
+				"Training",
+				"Photography"
+			]
 		}
 	]
 }
