@@ -1,0 +1,837 @@
+{
+	"idols": [
+		{
+			"name": {
+				"kanji": "天海春香",
+				"kana": "あまみ　はるか",
+				"translit": "Amami Haruka",
+				"western": "Haruka Amami"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": "中村繪里子",
+					"kana": "なかむら　えりこ",
+					"translit": "Nakamura Eriko",
+					"western": "Eriko Nakamura"
+				},
+				"nicknames": [
+					{
+						"jp": "えりりん",
+						"translit": "Eririn"
+					}
+				],
+				"birthday": {
+					"month": 11,
+					"day": 19,
+					"year": 1981,
+					"format": "1981-11-19",
+					"format_jp": "11月19日"
+				},
+				"height": "155cm",
+				"bloodtype": "O",
+				"agency": "ARTSVISION",
+				"gender": "female"
+			},
+			"age": 17,
+			"age_str": "17歳",
+			"height": "158cm",
+			"weight": "46kg",
+			"birthday": {
+				"month": 4,
+				"day": 3,
+				"format": "04-03",
+				"format_jp": "4月3日"
+			},
+			"bloodtype": "O",
+			"sizes": {
+				"value": "83-56-82",
+				"b": "83",
+				"w": "56",
+				"h": "82"
+			},
+			"color": "#e33c41",
+			"ml_type": "vocal",
+			"dere_type": "cute",
+			"gender": "female",
+			"hobbies": [
+				"おかし作り",
+				"カラオケ",
+				"長電話"
+			],
+			"hoobies": [
+				"Baking cakes",
+				"Karaoke",
+				"Long Phone Calls"
+			]
+		},
+		{
+			"name": {
+				"kanji": "如月千早",
+				"kana": "きさらぎ　ちはや",
+				"translit": "Kisaragi Chihaya",
+				"western": "Chihaya Kisaragi"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": "今井麻美",
+					"kana": "いまい　あさみ",
+					"translit": "Imai Asami",
+					"western": "Asami Imai"
+				},
+				"nicknames": [
+					{
+						"jp": "ミンゴス",
+						"translit": "Mingosu"
+					}
+				],
+				"birthday": {
+					"month": 5,
+					"day": 16,
+					"year": 1977,
+					"format": "1977-05-16",
+					"format_jp": "5月16日"
+				},
+				"height": "158cm",
+				"bloodtype": "O",
+				"agency": "EARLY WING",
+				"gender": "female"
+			},
+			"age": 16,
+			"age_str": "16歳",
+			"height": "162cm",
+			"weight": "41kg",
+			"birthday": {
+				"month": 2,
+				"day": 25,
+				"format": "02-25",
+				"format_jp": "2月25日"
+			},
+			"bloodtype": "A",
+			"sizes": {
+				"value": "72-55-78",
+				"b": "72",
+				"w": "55",
+				"h": "78"
+			},
+			"color": "#344fd4",
+			"ml_type": "vocal",
+			"dere_type": "cool",
+			"gender": "female",
+			"hobbies": [
+				"音楽鑑賞",
+				"トレーニング",
+				"写真"
+			],
+			"hoobies": [
+				"Musical Appreciation",
+				"Training",
+				"Photography"
+			]
+		},
+		{
+			"name": {
+				"kanji": "萩原雪歩",
+				"kana": "はぎわら　ゆきほ",
+				"translit": "Hagiwara Yukiho",
+				"western": "Yukiho Hagiwara"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": "浅倉杏美",
+					"kana": "あさくら　あずみ",
+					"translit": "Asakura Azumi",
+					"western": "Azumi Asakura"
+				},
+				"nicknames": [
+					{
+						"jp": "あずみん",
+						"translit": "Azumin"
+					}
+				],
+				"birthday": {
+					"month": 2,
+					"day": 15,
+					"year": 1987,
+					"format": "1987-02-15",
+					"format_jp": "2月15日"
+				},
+				"height": "156cm",
+				"bloodtype": "A",
+				"agency": "ARTSVISION",
+				"gender": "female"
+			},
+			"age": 17,
+			"age_str": "17歳",
+			"height": "155cm",
+			"weight": "42kg",
+			"birthday": {
+				"month": 12,
+				"day": 24,
+				"format": "12-24",
+				"format_jp": "12月24日"
+			},
+			"bloodtype": "A",
+			"sizes": {
+				"value": "81-56-81",
+				"b": "81",
+				"w": "56",
+				"h": "81"
+			},
+			"color": "#CDD3DC",
+			"ml_type": "visual",
+			"dere_type": "passion",
+			"gender": "female",
+			"hobbies": [
+				"詩を書くこと",
+				"日本茶",
+				"ブログ"
+			],
+			"hoobies": [
+				"Writing Poetry",
+				"Tea",
+				"Blogs"
+			]
+		},
+		{
+			"name": {
+				"kanji": "高槻やよい",
+				"kana": "たかつき　やよい",
+				"translit": "Takatsuki Yayoi",
+				"western": "Yayoi Takatsuki"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": "仁後真耶子",
+					"kana": "にご　まやこ",
+					"translit": "Nigo Mayako",
+					"western": "Mayako Nigo"
+				},
+				"nicknames": [
+					{
+						"jp": "まよちょん",
+						"translit": "Mayochon"
+					}
+				],
+				"birthday": {
+					"month": 12,
+					"day": 2,
+					"year": 1979,
+					"format": "1979-12-02",
+					"format_jp": "12月2日"
+				},
+				"height": "??cm",
+				"bloodtype": "A",
+				"agency": "I'm Enterprise",
+				"gender": "female"
+			},
+			"age": 14,
+			"age_str": "14歳",
+			"height": "145cm",
+			"weight": "37kg",
+			"birthday": {
+				"month": 3,
+				"day": 25,
+				"format": "03-25",
+				"format_jp": "3月25日"
+			},
+			"bloodtype": "O",
+			"sizes": {
+				"value": "74-54-78",
+				"b": "74",
+				"w": "54",
+				"h": "78"
+			},
+			"color": "#f96301",
+			"ml_type": "dance",
+			"dere_type": "cute",
+			"gender": "female",
+			"hobbies": [
+				"オセロ",
+				"野球",
+				"家庭菜園"
+			],
+			"hoobies": [
+				"Othello",
+				"Baseball",
+				"Gardening at home"
+			]
+		},
+		{
+			"name": {
+				"kanji": "秋月律子",
+				"kana": "あきずき　りつこ",
+				"translit": "Akizuki Ritsuko",
+				"western": "Ritsuko Akizuki"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": "若林直美",
+					"kana": "わかばやし　なおみ",
+					"translit": "Wakabayashi Naomi",
+					"western": "Naomi Wakabayashi"
+				},
+				"nicknames": [
+					{
+						"jp": "神",
+						"translit": "Kami"
+					}
+				],
+				"birthday": {
+					"month": 11,
+					"day": 2,
+					"year": 1975,
+					"format": "1975-11-02",
+					"format_jp": "11月2日"
+				},
+				"height": "155cm",
+				"bloodtype": "B",
+				"agency": "Doujinsha Corporation",
+				"gender": "female"
+			},
+			"age": 19,
+			"age_str": "19歳",
+			"height": "156cm",
+			"weight": "43kg",
+			"birthday": {
+				"month": 6,
+				"day": 23,
+				"format": "06-23",
+				"format_jp": "6月23日"
+			},
+			"bloodtype": "A",
+			"sizes": {
+				"value": "85-57-85",
+				"b": "85",
+				"w": "57",
+				"h": "85"
+			},
+			"color": "#139860",
+			"ml_type": "visual",
+			"dere_type": "cool",
+			"gender": "female",
+			"hobbies": [
+				"資格取得",
+				"分析・実践",
+				"ボランティア"
+			],
+			"hoobies": [
+				"Qualifications",
+				"Logic",
+				"Volunteering"
+			]
+		},
+		{
+			"name": {
+				"kanji": "三浦あずさ",
+				"kana": "みうら　あずさ",
+				"translit": "Miura Azusa",
+				"western": "Azusa Miura"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": "たかはし智秋",
+					"kana": "たかはし　ちあき",
+					"translit": "Takahashi Chiaki",
+					"western": "Chiaki Takahashi"
+				},
+				"nicknames": [
+					{
+						"jp": "チアキング",
+						"translit": "Chiaking"
+					}
+				],
+				"birthday": {
+					"month": 5,
+					"day": 8,
+					"year": 1977,
+					"format": "1977-05-08",
+					"format_jp": "5月8日"
+				},
+				"height": "??cm",
+				"bloodtype": "O",
+				"agency": "Freelance",
+				"gender": "female"
+			},
+			"age": 21,
+			"age_str": "21歳",
+			"height": "168cm",
+			"weight": "48kg",
+			"birthday": {
+				"month": 7,
+				"day": 19,
+				"format": "07-19",
+				"format_jp": "7月19日"
+			},
+			"bloodtype": "O",
+			"sizes": {
+				"value": "91-59-86",
+				"b": "91",
+				"w": "59",
+				"h": "86"
+			},
+			"color": "#783499",
+			"ml_type": "vocal",
+			"dere_type": "cool",
+			"gender": "female",
+			"hobbies": [
+				"犬の散歩",
+				"カフェ巡り"
+			],
+			"hoobies": [
+				"Dog Walking",
+				"Cafes"
+			]
+		},
+		{
+			"name": {
+				"kanji": "水瀬伊織",
+				"kana": "みなせ　いおり",
+				"translit": "Minase Iori",
+				"western": "Iori Minase"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": "釘宮理恵",
+					"kana": "くぎみや　りえ",
+					"translit": "Kugimiya Rie",
+					"western": "Rie Kugimiya"
+				},
+				"nicknames": [
+					{
+						"jp": "くぎみー",
+						"translit": "Kugimii"
+					},
+					{
+						"jp": "くぎゅー",
+						"translit": "Kugyuu"
+					}
+				],
+				"birthday": {
+					"month": 5,
+					"day": 30,
+					"year": 1979,
+					"format": "1979-05-30",
+					"format_jp": "5月30日"
+				},
+				"height": "159cm",
+				"bloodtype": "B",
+				"agency": "I'm Enterprise",
+				"gender": "female"
+			},
+			"age": 15,
+			"age_str": "15歳",
+			"height": "153cm",
+			"weight": "40kg",
+			"birthday": {
+				"month": 5,
+				"day": 5,
+				"format": "05-05",
+				"format_jp": "5月5日"
+			},
+			"bloodtype": "AB",
+			"sizes": {
+				"value": "77-54-79",
+				"b": "77",
+				"w": "54",
+				"h": "79"
+			},
+			"color": "#fa77c5",
+			"ml_type": "vocal",
+			"dere_type": "passion",
+			"gender": "female",
+			"hobbies": [
+				"海外旅行",
+				"食べ歩き"
+			],
+			"hoobies": [
+				"Traveling",
+				"Restaurants"
+			]
+		},
+		{
+			"name": {
+				"kanji": "菊地真",
+				"kana": "きくち　まこと",
+				"translit": "Kikuchi Makoto",
+				"western": "Makoto Kikcuhi"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": "平田宏美",
+					"kana": "ひらた　ひろみ",
+					"translit": "Hirata Hiromi",
+					"western": "Hiromi Hirata"
+				},
+				"nicknames": [
+					{
+						"jp": "ひろりん",
+						"translit": "Hirorin"
+					}
+				],
+				"birthday": {
+					"month": 2,
+					"day": 19,
+					"year": 1979,
+					"format": "1978-05-30",
+					"format_jp": "2月19日"
+				},
+				"height": "??cm",
+				"bloodtype": "AB",
+				"agency": "I'm Enterprise",
+				"gender": "female"
+			},
+			"age": 17,
+			"age_str": "17歳",
+			"height": "159cm",
+			"weight": "44kg",
+			"birthday": {
+				"month": 8,
+				"day": 29,
+				"format": "08-29",
+				"format_jp": "8月29日"
+			},
+			"bloodtype": "O",
+			"sizes": {
+				"value": "75-57-78",
+				"b": "75",
+				"w": "57",
+				"h": "78"
+			},
+			"color": "#444648",
+			"ml_type": "dance",
+			"dere_type": "cute",
+			"gender": "female",
+			"hobbies": [
+				"スポーツ全般",
+				"ぬいぐるみ集め"
+			],
+			"hoobies": [
+				"All Sports",
+				"Plushies"
+			]
+		},
+		{
+			"name": {
+				"kanji": "双海亜美",
+				"kana": "ふたみ　あみ",
+				"translit": "Futami Ami",
+				"western": "Ami Futami"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": "下田麻美",
+					"kana": "しもだ　あさみ",
+					"translit": "Shimoda Asami",
+					"western": "Asami Shimoda"
+				},
+				"nicknames": [
+					{
+						"jp": "あさぽん",
+						"translit": "Asapon"
+					},
+					{
+						"jp": "ぽんちゃん",
+						"translit": "Pon-chan"
+					}
+				],
+				"birthday": {
+					"month": 1,
+					"day": 30,
+					"year": 1986,
+					"format": "1986-01-30",
+					"format_jp": "1月30日"
+				},
+				"height": "158cm",
+				"bloodtype": "A",
+				"agency": "ARTSVISION",
+				"gender": "female"
+			},
+			"age": 13,
+			"age_str": "13歳",
+			"height": "158cm",
+			"weight": "42kg",
+			"birthday": {
+				"month": 5,
+				"day": 22,
+				"format": "05-22",
+				"format_jp": "5月22日"
+			},
+			"bloodtype": "B",
+			"sizes": {
+				"value": "78-55-77",
+				"b": "78",
+				"w": "55",
+				"h": "77"
+			},
+			"color": "#ffe43f",
+			"ml_type": "visual",
+			"dere_type": "passion",
+			"gender": "female",
+			"hobbies": [
+				"メール",
+				"エコ"
+			],
+			"hoobies": [
+				"E-Mail",
+				"Ecology"
+			]
+		},
+		{
+			"name": {
+				"kanji": "双海真美",
+				"kana": "ふたみ　まみ",
+				"translit": "Futami Mami",
+				"western": "Mami Futami"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": "下田麻美",
+					"kana": "しもだ　あさみ",
+					"translit": "Shimoda Asami",
+					"western": "Asami Shimoda"
+				},
+				"nicknames": [
+					{
+						"jp": "あさぽん",
+						"translit": "Asapon"
+					},
+					{
+						"jp": "ぽんちゃん",
+						"translit": "Pon-chan"
+					}
+				],
+				"birthday": {
+					"month": 1,
+					"day": 30,
+					"year": 1986,
+					"format": "1986-01-30",
+					"format_jp": "1月30日"
+				},
+				"height": "158cm",
+				"bloodtype": "A",
+				"agency": "ARTSVISION",
+				"gender": "female"
+			},
+			"age": 13,
+			"age_str": "13歳",
+			"height": "158cm",
+			"weight": "42kg",
+			"birthday": {
+				"month": 5,
+				"day": 22,
+				"format": "05-22",
+				"format_jp": "5月22日"
+			},
+			"bloodtype": "B",
+			"sizes": {
+				"value": "78-55-77",
+				"b": "78",
+				"w": "55",
+				"h": "77"
+			},
+			"color": "#ffe43f",
+			"ml_type": "visual",
+			"dere_type": "passion",
+			"gender": "female",
+			"hobbies": [
+				"メール",
+				"ぼんさい"
+			],
+			"hoobies": [
+				"E-Mail",
+				"Bonsai"
+			]
+		},
+		{
+			"name": {
+				"kanji": "星井美希",
+				"kana": "ほしい　みき",
+				"translit": "Hoshii Miki",
+				"western": "Miki Hoshii"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": "長谷川明子",
+					"kana": "はせがわ　あきこ",
+					"translit": "Hasegawa Akiko",
+					"western": "Akiko Hasegawa"
+				},
+				"nicknames": [
+					{
+						"jp": "アッキー",
+						"translit": "Akki"
+					}
+				],
+				"birthday": {
+					"month": 4,
+					"day": 14,
+					"format": "04-14",
+					"format_jp": "4月14日"
+				},
+				"height": "??cm",
+				"bloodtype": "A",
+				"agency": "ARTSVISION",
+				"gender": "female"
+			},
+			"age": 15,
+			"age_str": "15歳",
+			"height": "161cm",
+			"weight": "45kg",
+			"birthday": {
+				"month": 11,
+				"day": 23,
+				"format": "11-23",
+				"format_jp": "11月23日"
+			},
+			"bloodtype": "B",
+			"sizes": {
+				"value": "86-55-83",
+				"b": "86",
+				"w": "55",
+				"h": "83"
+			},
+			"color": "#9ccd1d",
+			"ml_type": "visual",
+			"dere_type": "passion",
+			"gender": "female",
+			"hobbies": [
+				"友達とおしゃべり",
+				"ネイルアート"
+			],
+			"hoobies": [
+				"Friends",
+				"Nail Art"
+			]
+		},
+		{
+			"name": {
+				"kanji": "我那覇響",
+				"kana": "がなは　ひびき",
+				"translit": "Ganaha Hibiki",
+				"western": "Hibiki Ganaha"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": "沼倉愛美",
+					"kana": "ぬまくら　まなみ",
+					"translit": "Numakura Manami",
+					"western": "Manami Numakura"
+				},
+				"nicknames": [
+					{
+						"jp": "ぬー",
+						"translit": "Nu"
+					},
+					{
+						"jp": "ぬーぬー",
+						"translit": "Nunu"
+					}
+				],
+				"birthday": {
+					"month": 4,
+					"day": 15,
+					"year": 1988,
+					"format": "1988-04-15",
+					"format_jp": "4月15日"
+				},
+				"height": "160cm",
+				"bloodtype": "AB",
+				"agency": "ARTSVISION",
+				"gender": "female"
+			},
+			"age": 16,
+			"age_str": "16歳",
+			"height": "152cm",
+			"weight": "41kg",
+			"birthday": {
+				"month": 10,
+				"day": 10,
+				"format": "10-10",
+				"format_jp": "10月10日"
+			},
+			"bloodtype": "A",
+			"sizes": {
+				"value": "83-56-80",
+				"b": "83",
+				"w": "56",
+				"h": "80"
+			},
+			"color": "#01adb9",
+			"ml_type": "dance",
+			"dere_type": "cute",
+			"gender": "female",
+			"hobbies": [
+				"編み物",
+				"卓球",
+				"散歩"
+			],
+			"hoobies": [
+				"Knitting",
+				"Table Tennis",
+				"Walks"
+			]
+		},
+		{
+			"name": {
+				"kanji": "四条貴音",
+				"kana": "しじょう　たかね",
+				"translit": "Shijou Takane",
+				"western": "Takane Shijou"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": "原由実",
+					"kana": "はら　ゆみ",
+					"translit": "Hara Yumi",
+					"western": "Yumi Hara"
+				},
+				"nicknames": [
+					{
+						"jp": "はらみー",
+						"translit": "Harami"
+					}
+				],
+				"birthday": {
+					"month": 1,
+					"day": 21,
+					"year": 1985,
+					"format": "1985-01-21",
+					"format_jp": "1月21日"
+				},
+				"height": "164cm",
+				"bloodtype": "B",
+				"agency": "ARTSVISION",
+				"gender": "female"
+			},
+			"age": 18,
+			"age_str": "18歳",
+			"height": "169cm",
+			"weight": "49kg",
+			"birthday": {
+				"month": 1,
+				"day": 21,
+				"format": "01-21",
+				"format_jp": "1月21日"
+			},
+			"bloodtype": "B",
+			"sizes": {
+				"value": "90-62-92",
+				"b": "90",
+				"w": "62",
+				"h": "92"
+			},
+			"color": "#a6126a",
+			"ml_type": "vocal",
+			"dere_type": "cool",
+			"gender": "female",
+			"hobbies": [
+				"天体観測",
+				"歴史"
+			],
+			"hoobies": [
+				"Astronomy",
+				"History"
+			]
+		}
+	]
+}
