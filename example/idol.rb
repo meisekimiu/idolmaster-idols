@@ -32,7 +32,7 @@ if name.split(/\w/).count > 1 then
 else
 	#They entered a first or last name (probably first but whatever) or kanji
 	idols.each do |idol|
-		if idol.name.western.downcase.split(" ").include?(name) || idol.name.kana.split("　").include?(name) || idol.name.kanji == name || idol.name.kanji.include?(name) then
+		if idol.name.western.downcase.split(" ").include?(name) || idol.name.kana.split("　").include?(name) || idol.name.kanji.value == name || idol.name.kanji.value.include?(name) then
 			main_idol = idol;
 		end
 	end
@@ -52,7 +52,7 @@ puts "#{s_pronoun.capitalize} is #{idol.height} tall and weighs #{idol.weight}. 
 puts "#{idol.name.western.split(" ")[0]}'s voice actor is #{idol.seiyuu.name.western} (aka #{idol.seiyuu.nicknames[0].translit})."
 puts "#{idol.name.western.split(" ")[0]}'s hobbies include: #{idol.hoobies.join(", ")}."
 puts
-puts "#{idol.name.kanji}は#{idol.age_str}です。誕生日が#{idol.birthday.format_jp}です。"
+puts "#{idol.name.kanji.value}は#{idol.age_str}です。誕生日が#{idol.birthday.format_jp}です。"
 puts "身長#{idol.height}で、体重は#{idol.weight}です。血液型が#{idol.bloodtype}です。"
-puts "#{idol.name.kanji}の声優は#{idol.seiyuu.name.kanji}（#{idol.seiyuu.nicknames[0].jp}）です。"
-puts "#{idol.name.kanji}の趣味は#{idol.hobbies.join("と")}です。"
+puts "#{idol.name.kanji.fname}の声優は#{idol.seiyuu.name.kanji.value}（#{idol.seiyuu.nicknames[0].jp}）です。"
+puts "#{idol.name.kanji.fname}の趣味は#{idol.hobbies.join("と")}です。"

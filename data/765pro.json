@@ -2,15 +2,23 @@
 	"idols": [
 		{
 			"name": {
-				"kanji": "天海春香",
-				"kana": "あまみ　はるか",
+				"kanji": {
+					"value": "天海春香",
+					"fname": "春香",
+					"lname": "天海"
+				},
+				"kana": "あまみ はるか",
 				"translit": "Amami Haruka",
 				"western": "Haruka Amami"
 			},
 			"seiyuu": {
 				"name": {
-					"kanji": "中村繪里子",
-					"kana": "なかむら　えりこ",
+					"kanji": {
+						"value": "中村繪里子",
+						"fname": "絵里子",
+						"lname": "中村"
+					},
+					"kana": "なかむら えりこ",
 					"translit": "Nakamura Eriko",
 					"western": "Eriko Nakamura"
 				},
@@ -66,15 +74,23 @@
 		},
 		{
 			"name": {
-				"kanji": "如月千早",
-				"kana": "きさらぎ　ちはや",
+				"kanji": {
+					"value": "如月千早",
+					"fname": "千早",
+					"lname": "如月"
+				},
+				"kana": "きさらぎ ちはや",
 				"translit": "Kisaragi Chihaya",
 				"western": "Chihaya Kisaragi"
 			},
 			"seiyuu": {
 				"name": {
-					"kanji": "今井麻美",
-					"kana": "いまい　あさみ",
+					"kanji": {
+							"value": "今井麻美",
+							"fname": "麻美",
+							"lname": "今井"
+					},
+					"kana": "いまい あさみ",
 					"translit": "Imai Asami",
 					"western": "Asami Imai"
 				},
@@ -130,15 +146,23 @@
 		},
 		{
 			"name": {
-				"kanji": "萩原雪歩",
-				"kana": "はぎわら　ゆきほ",
+				"kanji": {
+					"value": "萩原雪歩",
+					"fname": "雪歩",
+					"lname": "萩原"
+				},
+				"kana": "はぎわら ゆきほ",
 				"translit": "Hagiwara Yukiho",
 				"western": "Yukiho Hagiwara"
 			},
 			"seiyuu": {
 				"name": {
-					"kanji": "浅倉杏美",
-					"kana": "あさくら　あずみ",
+					"kanji": {
+						"value": "浅倉杏美",
+						"fname": "杏美",
+						"lname": "浅倉"
+					},
+					"kana": "あさくら あずみ",
 					"translit": "Asakura Azumi",
 					"western": "Azumi Asakura"
 				},
@@ -194,15 +218,23 @@
 		},
 		{
 			"name": {
-				"kanji": "高槻やよい",
-				"kana": "たかつき　やよい",
+				"kanji": {
+					"value": "高槻やよい",
+					"fname": "やよい",
+					"lname": "高槻"
+				},
+				"kana": "たかつき やよい",
 				"translit": "Takatsuki Yayoi",
 				"western": "Yayoi Takatsuki"
 			},
 			"seiyuu": {
 				"name": {
-					"kanji": "仁後真耶子",
-					"kana": "にご　まやこ",
+					"kanji": {
+						"value": "仁後真耶子",
+						"fname": "真耶子",
+						"lname": "仁後"
+					},
+					"kana": "にご まやこ",
 					"translit": "Nigo Mayako",
 					"western": "Mayako Nigo"
 				},
@@ -219,7 +251,6 @@
 					"format": "1979-12-02",
 					"format_jp": "12月2日"
 				},
-				"height": "??cm",
 				"bloodtype": "A",
 				"agency": "I'm Enterprise",
 				"gender": "female"
@@ -258,15 +289,23 @@
 		},
 		{
 			"name": {
-				"kanji": "秋月律子",
-				"kana": "あきずき　りつこ",
+				"kanji": {
+					"value": "秋月律子",
+					"fname": "律子",
+					"lname": "秋月"
+				},
+				"kana": "あきずき りつこ",
 				"translit": "Akizuki Ritsuko",
 				"western": "Ritsuko Akizuki"
 			},
 			"seiyuu": {
 				"name": {
-					"kanji": "若林直美",
-					"kana": "わかばやし　なおみ",
+					"kanji": {
+						"value": "若林直美",
+						"fname": "直美",
+						"lname": "若林"
+					},
+					"kana": "わかばやし なおみ",
 					"translit": "Wakabayashi Naomi",
 					"western": "Naomi Wakabayashi"
 				},
@@ -322,15 +361,23 @@
 		},
 		{
 			"name": {
-				"kanji": "三浦あずさ",
-				"kana": "みうら　あずさ",
+				"kanji": {
+					"value": "三浦あずさ",
+					"fname": "あずさ",
+					"lname": "三浦"
+				},
+				"kana": "みうら あずさ",
 				"translit": "Miura Azusa",
 				"western": "Azusa Miura"
 			},
 			"seiyuu": {
 				"name": {
-					"kanji": "たかはし智秋",
-					"kana": "たかはし　ちあき",
+					"kanji": {
+						"value": "たかはし智秋",
+						"fname": "智秋",
+						"lname": "たかはし"
+					},
+					"kana": "たかはし ちあき",
 					"translit": "Takahashi Chiaki",
 					"western": "Chiaki Takahashi"
 				},
@@ -347,7 +394,6 @@
 					"format": "1977-05-08",
 					"format_jp": "5月8日"
 				},
-				"height": "??cm",
 				"bloodtype": "O",
 				"agency": "Freelance",
 				"gender": "female"
@@ -384,15 +430,23 @@
 		},
 		{
 			"name": {
-				"kanji": "水瀬伊織",
-				"kana": "みなせ　いおり",
+				"kanji": {
+					"value": "水瀬伊織",
+					"fname": "伊織",
+					"lname": "水瀬"
+				},
+				"kana": "みなせ いおり",
 				"translit": "Minase Iori",
 				"western": "Iori Minase"
 			},
 			"seiyuu": {
 				"name": {
-					"kanji": "釘宮理恵",
-					"kana": "くぎみや　りえ",
+					"kanji": {
+						"value": "釘宮理恵",
+						"fname": "理恵",
+						"lname": "釘宮"
+					},
+					"kana": "くぎみや りえ",
 					"translit": "Kugimiya Rie",
 					"western": "Rie Kugimiya"
 				},
@@ -450,15 +504,23 @@
 		},
 		{
 			"name": {
-				"kanji": "菊地真",
-				"kana": "きくち　まこと",
+				"kanji": {
+					"value": "菊地真",
+					"fname": "真",
+					"lname": "菊地"
+				},
+				"kana": "きくち まこと",
 				"translit": "Kikuchi Makoto",
 				"western": "Makoto Kikcuhi"
 			},
 			"seiyuu": {
 				"name": {
-					"kanji": "平田宏美",
-					"kana": "ひらた　ひろみ",
+					"kanji": {
+						"value": "平田宏美",
+						"fname": "宏美",
+						"lname": "平田"
+					},
+					"kana": "ひらた ひろみ",
 					"translit": "Hirata Hiromi",
 					"western": "Hiromi Hirata"
 				},
@@ -475,7 +537,6 @@
 					"format": "1978-05-30",
 					"format_jp": "2月19日"
 				},
-				"height": "??cm",
 				"bloodtype": "AB",
 				"agency": "I'm Enterprise",
 				"gender": "female"
@@ -512,15 +573,23 @@
 		},
 		{
 			"name": {
-				"kanji": "双海亜美",
-				"kana": "ふたみ　あみ",
+				"kanji": {
+					"value": "双海亜美",
+					"fname": "亜美",
+					"lname": "双海"
+				},
+				"kana": "ふたみ あみ",
 				"translit": "Futami Ami",
 				"western": "Ami Futami"
 			},
 			"seiyuu": {
 				"name": {
-					"kanji": "下田麻美",
-					"kana": "しもだ　あさみ",
+					"kanji": {
+						"value": "下田麻美",
+						"fname": "麻美",
+						"lname": "下田"
+					},
+					"kana": "しもだ あさみ",
 					"translit": "Shimoda Asami",
 					"western": "Asami Shimoda"
 				},
@@ -578,15 +647,23 @@
 		},
 		{
 			"name": {
-				"kanji": "双海真美",
-				"kana": "ふたみ　まみ",
+				"kanji": {
+					"value": "双海真美",
+					"fname": "真美",
+					"lname": "双海"
+				},
+				"kana": "ふたみ まみ",
 				"translit": "Futami Mami",
 				"western": "Mami Futami"
 			},
 			"seiyuu": {
 				"name": {
-					"kanji": "下田麻美",
-					"kana": "しもだ　あさみ",
+					"kanji": {
+						"value": "下田麻美",
+						"fname": "麻美",
+						"lname": "下田"
+					},
+					"kana": "しもだ あさみ",
 					"translit": "Shimoda Asami",
 					"western": "Asami Shimoda"
 				},
@@ -644,15 +721,23 @@
 		},
 		{
 			"name": {
-				"kanji": "星井美希",
-				"kana": "ほしい　みき",
+				"kanji": {
+					"value": "星井美希",
+					"fname": "美希",
+					"lname": "星井"
+				},
+				"kana": "ほしい みき",
 				"translit": "Hoshii Miki",
 				"western": "Miki Hoshii"
 			},
 			"seiyuu": {
 				"name": {
-					"kanji": "長谷川明子",
-					"kana": "はせがわ　あきこ",
+					"kanji": {
+						"value": "長谷川明子",
+						"fname": "明子",
+						"lname": "長谷川"
+					},
+					"kana": "はせがわ あきこ",
 					"translit": "Hasegawa Akiko",
 					"western": "Akiko Hasegawa"
 				},
@@ -668,7 +753,6 @@
 					"format": "04-14",
 					"format_jp": "4月14日"
 				},
-				"height": "??cm",
 				"bloodtype": "A",
 				"agency": "ARTSVISION",
 				"gender": "female"
@@ -705,15 +789,23 @@
 		},
 		{
 			"name": {
-				"kanji": "我那覇響",
-				"kana": "がなは　ひびき",
+				"kanji": {
+					"value": "我那覇響",
+					"fname": "響",
+					"lname": "我那覇"
+				},
+				"kana": "がなは ひびき",
 				"translit": "Ganaha Hibiki",
 				"western": "Hibiki Ganaha"
 			},
 			"seiyuu": {
 				"name": {
-					"kanji": "沼倉愛美",
-					"kana": "ぬまくら　まなみ",
+					"kanji": {
+						"value": "沼倉愛美",
+						"fname": "愛美",
+						"lname": "沼倉"
+					},
+					"kana": "ぬまくら まなみ",
 					"translit": "Numakura Manami",
 					"western": "Manami Numakura"
 				},
@@ -773,15 +865,23 @@
 		},
 		{
 			"name": {
-				"kanji": "四条貴音",
-				"kana": "しじょう　たかね",
+				"kanji": {
+					"value": "四条貴音",
+					"fname": "貴音",
+					"lname": "四条"
+				},
+				"kana": "しじょう たかね",
 				"translit": "Shijou Takane",
 				"western": "Takane Shijou"
 			},
 			"seiyuu": {
 				"name": {
-					"kanji": "原由実",
-					"kana": "はら　ゆみ",
+					"kanji": {
+						"value": "原由実",
+						"fname": "由美",
+						"lname": "原"
+					},
+					"kana": "はら ゆみ",
 					"translit": "Hara Yumi",
 					"western": "Yumi Hara"
 				},
