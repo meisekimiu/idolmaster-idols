@@ -1,0 +1,69 @@
+{
+	"idols": [
+		{
+			"name": {
+				"kanji": {
+					"value": "音無小鳥",
+					"fname": "小鳥",
+					"lname": "音無"
+				},
+				"kana": "おとなし ことり",
+				"translit": "Otonashi Kotori",
+				"western": "Kotori Otonashi"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "滝田樹里",
+						"fname": "樹里",
+						"lname": "滝田"
+					},
+					"kana": "たきた じゅり",
+					"translit": "Takita Juri",
+					"western": "Juri Takita"
+				},
+				"nicknames": [
+					{
+						"jp": "樹里きち",
+						"translit": "Jurikichi"
+					}
+				],
+				"birthday": {
+					"month": 4,
+					"day": 18,
+					"year": 1981,
+					"format": "1981-04-18",
+					"format_jp": "4月18日"
+				},
+				"bloodtype": "A",
+				"agency": "I'm Enterprise",
+				"gender": "female"
+			},
+			"age_str": "2X歳",
+			"height": "159cm",
+			"weight": "49kg",
+			"birthday": {
+				"month": 9,
+				"day": 9,
+				"format": "09-09",
+				"format_jp": "9月9日"
+			},
+			"bloodtype": "AB",
+			"sizes": {
+				"value": "非公開"
+			},
+			"color": "#ffe068",
+			"gender": "female",
+			"hobbies": [
+				"TVをみること",
+				"妄想",
+				"ネット掲示板巡り"
+			],
+			"hoobies": [
+				"Watching TV",
+				"Daydreaming",
+				"Forum surfing"
+			]
+		}
+	]
+}

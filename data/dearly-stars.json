@@ -1,0 +1,204 @@
+{
+		"idols": [
+			{
+				"name": {
+					"kanji": {
+						"value": "日高愛",
+						"fname": "愛",
+						"lname": "日高"
+					},
+					"kana": "ひだか あい",
+					"translit": "Hidaka Ai",
+					"western": "Ai Hidaka"
+				},
+				"seiyuu": {
+					"name": {
+						"kanji": {
+							"value": "戸松遥",
+							"fname": "遥",
+							"lname": "戸松"
+						},
+						"kana": "とまつ はるか",
+						"translit": "Tomatsu Haruka",
+						"western": "Haruka Tomatsu"
+					},
+					"nicknames": [
+					],
+					"birthday": {
+						"month": 2,
+						"day": 4,
+						"year": 1990,
+						"format": "1990-02-04",
+						"format_jp": "2月4日"
+					},
+					"height": "165cm",
+					"bloodtype": "B",
+					"agency": "Music Ray'n",
+					"gender": "female"
+				},
+				"age": 13,
+				"age_str": "13歳",
+				"height": "149cm",
+				"weight": "40kg",
+				"birthday": {
+					"month": 6,
+					"day": 25,
+					"format": "06-25",
+					"format_jp": "6月25日"
+				},
+				"bloodtype": "O",
+				"sizes": {
+					"value": "78-55-79",
+					"b": "78",
+					"w": "55",
+					"h": "79"
+				},
+				"color": "#e85786",
+				"gender": "female",
+				"hobbies": [
+					"バーゲンの1点買い",
+					"金魚すくい"
+				],
+				"hoobies": [
+					"Deals/Bargains",
+					"Goldfish Scooping"
+				]
+			},
+			{
+				"name": {
+					"kanji": {
+						"value": "水谷絵理",
+						"fname": "絵理",
+						"lname": "水谷"
+					},
+					"kana": "みずたに えり",
+					"translit": "Mizutani Eri",
+					"western": "Eri Mizutani"
+				},
+				"seiyuu": {
+					"name": {
+						"kanji": {
+							"value": "花澤香菜",
+							"fname": "香菜",
+							"lname": "花澤"
+						},
+						"kana": "はなざわ かな",
+						"translit": "Hanazawa Kana",
+						"western": "Kana Hanazawa"
+					},
+					"nicknames": [
+						{
+							"jp": "はなかな",
+							"translit": "Hanakana"
+						}
+					],
+					"birthday": {
+						"month": 2,
+						"day": 25,
+						"year": 1989,
+						"format": "1989-02-25",
+						"format_jp": "2月25日"
+					},
+					"height": "156cm",
+					"bloodtype": "AB",
+					"agency": "Office Osawa",
+					"gender": "female"
+				},
+				"age": 15,
+				"age_str": "15歳",
+				"height": "152cm",
+				"weight": "36kg",
+				"birthday": {
+					"month": 3,
+					"day": 7,
+					"format": "03-07",
+					"format_jp": "3月7日"
+				},
+				"bloodtype": "B",
+				"sizes": {
+					"value": "82-53-76",
+					"b": "82",
+					"w": "53",
+					"h": "76"
+				},
+				"color": "#00adb9",
+				"gender": "female",
+				"hobbies": [
+					"映像編集",
+					"ジグソーパズル"
+				],
+				"hoobies": [
+					"Video Editing",
+					"Puzzles"
+				]
+			},
+			{
+				"name": {
+					"kanji": {
+						"value": "秋月涼",
+						"fname": "涼",
+						"lname": "秋月"
+					},
+					"kana": "あきずき りょう",
+					"translit": "Akizuki Ryo",
+					"western": "Ryo Akizuki"
+				},
+				"seiyuu": {
+					"name": {
+						"kanji": {
+							"value": "三瓶由布子",
+							"fname": "由布子",
+							"lname": "三瓶"
+						},
+						"kana": "さんぺい ゆうこ",
+						"translit": "Sanpei Yuuko",
+						"western": "Yuuko Sanpei"
+					},
+					"nicknames": [
+						{
+							"jp": "ゆうゆう",
+							"translit": "Yuuyuu"
+						}
+					],
+					"birthday": {
+						"month": 2,
+						"day": 28,
+						"year": 1986,
+						"format": "1986-02-28",
+						"format_jp": "2月28日"
+					},
+					"height": "156cm",
+					"bloodtype": "B",
+					"agency": "AXL-ONE",
+					"gender": "female"
+				},
+				"age": 15,
+				"age_str": "15歳",
+				"height": "162cm",
+				"weight": "54kg",
+				"birthday": {
+					"month": 9,
+					"day": 15,
+					"format": "09-15",
+					"format_jp": "9月15日"
+				},
+				"bloodtype": "O",
+				"sizes": {
+					"value": "80-59-80",
+					"b": "80",
+					"w": "59",
+					"h": "80"
+				},
+				"color": "#b2d468",
+				"gender": "male",
+				"sidem_type": "mental",
+				"shoe_size": "24.5cm",
+				"hobbies": [
+					"掃除とお料理とか"
+				],
+				"hoobies": [
+					"Cleaning, Cooking, Etc."
+				]
+			}
+		]
+}
