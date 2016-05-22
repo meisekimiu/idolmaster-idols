@@ -1,7 +1,7 @@
 # idolmaster-idols
-このリポジトリには、アイドルマスターのためのJSONファイルがあります。どうぞ。
+このリポジトリには、アイドルマスターのアイドルのJSONファイルがあります。どうぞ。
 
-In this repository there are JSON files containing data for The iDOLM@STER. Do with them as you wish.
+In this repository there are JSON files containing data about the idols from the iDOLM@STER. Do with them as you wish.
 
 ##Building
 This project really contains only JSON files, so technically you can just use all the data in the `data/` directory if you wish. However, to make files easier to edit, the basic JSON files in that directory are not minified. It's recommended you use the `build.sh` script to combine different JSON modules and minify the results.
