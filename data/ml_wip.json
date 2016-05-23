@@ -1,0 +1,1823 @@
+{
+	"idols": [
+		{
+			"name": {
+				"kanji": {
+					"value": "野々原茜",
+					"fname": "茜",
+					"lname": "野々原"
+				},
+				"kana": "ののはら あかね",
+				"translit": "Nonohara Akane",
+				"western": "Akane Nonohara"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "小笠原早紀",
+						"fname": "早紀",
+						"lname": "小笠原"
+					},
+					"kana": "おがさわら さき",
+					"translit": "Ogasawara Saki",
+					"western": "Saki Ogasawara"
+				},
+				"nicknames": [],
+				"birthday": {
+					"month": 3,
+					"day": 29,
+					"format": "03-29",
+					"format_jp": "3月29日"
+				},
+				"bloodtype": "A",
+				"agency": "Ken Production",
+				"gender": "female"
+			},
+			"age": 16,
+			"age_str": "16歳",
+			"height": "150cm",
+			"weight": "42kg",
+			"birthday": {
+				"month": 12,
+				"day": 3,
+				"format": "12-03",
+				"format_jp": "12月3日"
+			},
+			"bloodtype": "AB",
+			"sizes": {
+				"value": "80-58-79",
+				"b": "80",
+				"w": "58",
+				"h": "79"
+			},
+			"color": "#eb613f",
+			"gender": "female",
+			"hobbies": [
+				"スキップ"
+			],
+			"hoobies": [
+				"Skipping"
+			]
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "望月杏奈",
+					"fname": "杏奈",
+					"lname": "望月"
+				},
+				"kana": "もちずき あんあ",
+				"translit": "Mochizuki Anna",
+				"western": "Anna Mochizuki"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "夏川椎菜",
+						"fname": "椎菜",
+						"lname": "夏川"
+					},
+					"kana": "なつかわ しいな",
+					"translit": "Natsukawa Shiina",
+					"western": "Shiina Natsukawa"
+				},
+				"nicknames": [
+					{
+						"jp": "ナンス",
+						"translit": "Nansu"
+					}
+				],
+				"birthday": {
+					"year": 1996,
+					"month": 7,
+					"day": 18,
+					"format": "1996-07-18",
+					"format_jp": "7月18日"
+				},
+				"height": "158cm",
+				"agency": "Music Ray'n",
+				"gender": "female"
+			},
+			"age": 14,
+			"age_str": "14歳",
+			"height": "152cm",
+			"weight": "41kg",
+			"birthday": {
+				"month": 5,
+				"day": 31,
+				"format": "05-31",
+				"format_jp": "5月31日"
+			},
+			"bloodtype": "AB",
+			"sizes": {
+				"value": "78-53-79",
+				"b": "78",
+				"w": "53",
+				"h": "79"
+			},
+			"color": "#7e6ca8",
+			"gender": "female",
+			"hobbies": [
+				"オンラインゲーム"
+			],
+			"hoobies": [
+				"Online games"
+			]
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "舞浜歩",
+					"fname": "歩",
+					"lname": "舞浜"
+				},
+				"kana": "まいはま あゆむ",
+				"translit": "Maihama Ayumu",
+				"western": "Ayumu Maihama"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "戸田めぐみ",
+						"fname": "めぐみ",
+						"lname": "戸田"
+					},
+					"kana": "戸田 めぐみ",
+					"translit": "Toda Megumi",
+					"western": "Megumi Toda"
+				},
+				"nicknames": [
+					{
+						"jp": "めーぷる",
+						"translit": "Maple"
+					}
+				],
+				"birthday": {
+					"year": 1990,
+					"month": 12,
+					"day": 8,
+					"format": "1990-12-08",
+					"format_jp": "12月8日"
+				},
+				"height": "158cm",
+				"bloodtype": "B",
+				"agency": "Kenyu Office",
+				"gender": "female"
+			},
+			"age": 19,
+			"age_str": "19歳",
+			"height": "158cm",
+			"weight": "49kg",
+			"birthday": {
+				"month": 7,
+				"day": 23,
+				"format": "07-23",
+				"format_jp": "7月23日"
+			},
+			"bloodtype": "A",
+			"sizes": {
+				"value": "86-60-88",
+				"b": "86",
+				"w": "60",
+				"h": "88"
+			},
+			"color": "#e25a9b",
+			"gender": "female",
+			"hobbies": [
+				"ショッピング"
+			],
+			"hoobies": [
+				"Shopping"
+			]
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "島原エレナ",
+					"fname": "エレナ",
+					"lname": "島原"
+				},
+				"kana": "しまばら えれな",
+				"translit": "Shimabara Elena",
+				"western": "Elena Shimabara"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "角元明日香",
+						"fname": "明日香",
+						"lname": "角元"
+					},
+					"kana": "かくもと あすか",
+					"translit": "Kakumoto Asuka",
+					"western": "Asuka Kakumoto"
+				},
+				"nicknames": [
+					{
+						"jp": "あっしゅ",
+						"translit": "Asshu"
+					},
+					{
+						"jp": "かっくん",
+						"translit": "Kakkun"
+					}
+				],
+				"birthday": {
+					"year": 1992,
+					"month": 4,
+					"day": 8,
+					"format": "1992-04-08",
+					"format_jp": "4月8日"
+				},
+				"height": "146.5cm",
+				"bloodtype": "A",
+				"agency": "Space Craft",
+				"gender": "female"
+			},
+			"age": 17,
+			"age_str": "17歳",
+			"height": "160cm",
+			"weight": "47kg",
+			"birthday": {
+				"month": 10,
+				"day": 26,
+				"format": "10-26",
+				"format_jp": "10月26日"
+			},
+			"bloodtype": "B",
+			"sizes": {
+				"value": "85-58-86",
+				"b": "85",
+				"w": "58",
+				"h": "86"
+			},
+			"color": "#9bce92",
+			"gender": "female",
+			"hobbies": [
+				"パーティ"
+			],
+			"hoobies": [
+				"Partying"
+			]
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "エミリー スチュアート",
+					"fname": "エミリー",
+					"lname": "スチュアート"
+				},
+				"kana": "エミリー スチュアート",
+				"translit": "Emily Stewart",
+				"western": "Emily Stewart"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "郁原ゆう",
+						"fname": "ゆう",
+						"lname": "郁原"
+					},
+					"kana": "かはら ゆう",
+					"translit": "Kahara Yuu",
+					"western": "Yuu Kahara"
+				},
+				"nicknames": [
+					{
+						"jp": "ゆうちゃ",
+						"translit": "Yuucha"
+					}
+				],
+				"birthday": {
+					"month": 2,
+					"day": 19,
+					"format": "02-19",
+					"format_jp": "2月19日"
+				},
+				"height": "156cm",
+				"bloodtype": "A",
+				"agency": "Freelance",
+				"gender": "female"
+			},
+			"age": 13,
+			"age_str": "13歳",
+			"height": "156cm",
+			"weight": "41kg",
+			"birthday": {
+				"month": 1,
+				"day": 8,
+				"format": "01-08",
+				"format_jp": "1月8日"
+			},
+			"bloodtype": "A",
+			"sizes": {
+				"value": "74-54-76",
+				"b": "74",
+				"w": "54",
+				"h": "76"
+			},
+			"color": "#554171",
+			"gender": "female",
+			"hobbies": [
+				"TODO"
+			],
+			"hoobies": [
+				"Playing Karuta"
+			]
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "豊川風花",
+					"fname": "風花",
+					"lname": "豊川"
+				},
+				"kana": "とよかわ ふか",
+				"translit": "Toyokawa Fuka",
+				"western": "Fuka Toyokawa"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "末柄里恵",
+						"fname": "里恵",
+						"lname": "末柄"
+					},
+					"kana": "すえがら りえ",
+					"translit": "Suegara Rie",
+					"western": "Rie Suegara"
+				},
+				"nicknames": [
+					{
+						"jp": "すーじー",
+						"translit": "Susie"
+					}
+				],
+				"birthday": {
+					"month": 1,
+					"day": 8,
+					"format": "01-08",
+					"format_jp": "1月8日"
+				},
+				"agency": "Ken Production",
+				"gender": "female"
+			},
+			"age": 22,
+			"age_str": "22歳",
+			"height": "162cm",
+			"weight": "51kg",
+			"birthday": {
+				"month": 9,
+				"day": 2,
+				"format": "09-02",
+				"format_jp": "9月2日"
+			},
+			"bloodtype": "O",
+			"sizes": {
+				"value": "93-61-91",
+				"b": "93",
+				"w": "61",
+				"h": "91"
+			},
+			"color": "#7278a8",
+			"gender": "female",
+			"hobbies": [
+				"献血"
+			],
+			"hoobies": [
+				"Donating blood"
+			]
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "木下ひなた",
+					"fname": "ひなた",
+					"lname": "木下"
+				},
+				"kana": "きのした ひなた",
+				"translit": "Kinoshita Hinata",
+				"western": "Hinata Kinoshita"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "田村奈央",
+						"fname": "奈央",
+						"lname": "田村"
+					},
+					"kana": "たむら なお",
+					"translit": "Tamura Nao",
+					"western": "Nao tamura"
+				},
+				"nicknames": [
+					{
+						"jp": "でんちゃん",
+						"translit": "Denchan"
+					}
+				],
+				"birthday": {
+					"month": 10,
+					"day": 10,
+					"format": "10-10",
+					"format_jp": "10月10日"
+				},
+				"height": "153cm",
+				"bloodtype": "B",
+				"agency": "Haikyo",
+				"gender": "female"
+			},
+			"age": 14,
+			"age_str": "14歳",
+			"height": "146cm",
+			"weight": "39kg",
+			"birthday": {
+				"month": 7,
+				"day": 4,
+				"format": "07-04",
+				"format_jp": "7月4日"
+			},
+			"bloodtype": "O",
+			"sizes": {
+				"value": "74-55-78",
+				"b": "74",
+				"w": "55",
+				"h": "78"
+			},
+			"color": "#d1342c",
+			"gender": "female",
+			"hobbies": [
+				"TODO"
+			],
+			"hoobies": [
+				"TODO"
+			]
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "中谷育",
+					"fname": "育",
+					"lname": "中谷"
+				},
+				"kana": "なかたに いく",
+				"translit": "Nakatani Iku",
+				"western": "Iku Nakatani"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "原嶋あかり",
+						"fname": "あかり",
+						"lname": "原嶋"
+					},
+					"kana": "はらしま あかり",
+					"translit": "Harashima Akari",
+					"western": "Akari Harashima"
+				},
+				"nicknames": [],
+				"birthday": {
+					"year": 1990,
+					"month": 3,
+					"day": 9,
+					"format": "1990-03-09",
+					"format_jp": "3月9日"
+				},
+				"height": "139cm",
+				"bloodtype": "A",
+				"agency": "Haikyo",
+				"gender": "female"
+			},
+			"age": 10,
+			"age_str": "10歳",
+			"height": "142cm",
+			"weight": "37kg",
+			"birthday": {
+				"month": 12,
+				"day": 16,
+				"format": "12-16",
+				"format_jp": "12月16日"
+			},
+			"bloodtype": "B",
+			"sizes": {
+				"value": "72-52-73",
+				"b": "72",
+				"w": "52",
+				"h": "73"
+			},
+			"color": "#f7e78e",
+			"gender": "female",
+			"hobbies": [
+				"TODO"
+			],
+			"hoobies": [
+				"Appreciating anime"
+			]
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "ジュリア",
+					"fname": "ジュリア"
+				},
+				"kana": "ジュリア",
+				"translit": "Julia",
+				"western": "Julia"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "寺川愛美",
+						"fname": "愛美",
+						"lname": "寺川"
+					},
+					"kana": "てらかわ あいみ",
+					"translit": "Terakawa Aimi",
+					"western": "Aimi Terakawa"
+				},
+				"nicknames": [
+					{
+						"jp": "あいみん",
+						"translit": "Aimin"
+					}
+				],
+				"birthday": {
+					"year": 1991,
+					"month": 12,
+					"day": 25,
+					"format": "1991-12-25",
+					"format_jp": "12月25日"
+				},
+				"height": "163cm",
+				"bloodtype": "A",
+				"agency": "Hibiki",
+				"gender": "female"
+			},
+			"age": 16,
+			"age_str": "16歳",
+			"height": "157cm",
+			"weight": "43kg",
+			"birthday": {
+				"month": 9,
+				"day": 26,
+				"format": "09-26",
+				"format_jp": "9月26日"
+			},
+			"bloodtype": "O",
+			"sizes": {
+				"value": "79-54-80",
+				"b": "79",
+				"w": "54",
+				"h": "80"
+			},
+			"color": "#d7385f",
+			"gender": "female",
+			"hobbies": [
+				"なし"
+			],
+			"hoobies": [
+				"None"
+			]
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "矢吹可奈",
+					"fname": "可奈",
+					"lname": "矢吹"
+				},
+				"kana": "やぶき かな",
+				"translit": "Yabuki Kana",
+				"western": "Kana Yabuki"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "木戸衣吹",
+						"fname": "衣吹",
+						"lname": "木戸"
+					},
+					"kana": "きど いぶき",
+					"translit": "Kido Ibuki",
+					"western": "Ibuki Kido"
+				},
+				"nicknames": [
+					{
+						"jp": "いぶきんぐ",
+						"translit": "Ibuking"
+					},
+					{
+						"jp": "いぶいぶ",
+						"translit": "Ibuibu"
+					},
+					{
+						"jp": "いぶちゃん",
+						"translit": "Ibu-chan"
+					}
+				],
+				"birthday": {
+					"year": 1997,
+					"month": 11,
+					"day": 11,
+					"format": "1997-11-11",
+					"format_jp": "11月11日"
+				},
+				"height": "156cm",
+				"bloodtype": "A",
+				"agency": "HORIPRO",
+				"gender": "female"
+			},
+			"age": 14,
+			"age_str": "14歳",
+			"height": "155cm",
+			"weight": "43kg",
+			"birthday": {
+				"month": 8,
+				"day": 18,
+				"format": "08-18",
+				"format_jp": "8月18日"
+			},
+			"bloodtype": "A",
+			"sizes": {
+				"value": "77-54-76",
+				"b": "77",
+				"w": "54",
+				"h": "76"
+			},
+			"color": "#f5ad3b",
+			"gender": "female",
+			"hobbies": [
+				"TODO"
+			],
+			"hoobies": [
+				"Singing anything"
+			]
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "篠宮可憐",
+					"fname": "可憐",
+					"lname": "篠宮"
+				},
+				"kana": "しのみや かれん",
+				"translit": "Shinomiya Karen",
+				"western": "Karen Shinomiya"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "近藤唯",
+						"fname": "唯",
+						"lname": "近藤"
+					},
+					"kana": "こんどう ゆい",
+					"translit": "Kondou Yui",
+					"western": "Yui Kondou"
+				},
+				"nicknames": [],
+				"birthday": {
+					"format": "TODO"
+				},
+				"height": "TODO",
+				"bloodtype": "TODO",
+				"agency": "TODO",
+				"gender": "female"
+			},
+			"age": 16,
+			"age_str": "16歳",
+			"height": "159cm",
+			"weight": "48kg",
+			"birthday": {
+				"month": 8,
+				"day": 27,
+				"format": "08-27",
+				"format_jp": "8月27日"
+			},
+			"bloodtype": "AB",
+			"sizes": {
+				"value": "90-59-90",
+				"b": "90",
+				"w": "59",
+				"h": "90"
+			},
+			"color": "#b63b40",
+			"gender": "female",
+			"hobbies": [],
+			"hoobies": []
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "馬場このみ",
+					"fname": "TODO",
+					"lname": "TODO"
+				},
+				"kana": "ばば このみ",
+				"translit": "Baba Konomi",
+				"western": "Konomi Baba"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "高橋未奈美",
+						"fname": "TODO",
+						"lname": "TODO"
+					},
+					"kana": "TODO",
+					"translit": "TODO",
+					"western": "TODO"
+				},
+				"nicknames": [],
+				"birthday": {
+					"format": "TODO"
+				},
+				"height": "TODO",
+				"bloodtype": "TODO",
+				"agency": "TODO",
+				"gender": "female"
+			},
+			"age": 24,
+			"age_str": "24歳",
+			"height": "143cm",
+			"weight": "37kg",
+			"birthday": {
+				"month": 6,
+				"day": 12,
+				"format": "06-12",
+				"format_jp": "6月12日"
+			},
+			"bloodtype": "A",
+			"sizes": {
+				"value": "75-55-79",
+				"b": "75",
+				"w": "55",
+				"h": "79"
+			},
+			"color": "#f1becb",
+			"gender": "female",
+			"hobbies": [],
+			"hoobies": []
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "所恵美",
+					"fname": "TODO",
+					"lname": "TODO"
+				},
+				"kana": "ところ めぐみ",
+				"translit": "Tokoro Megumi",
+				"western": "Megumi Tokoro"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "藤井ゆきよ",
+						"fname": "TODO",
+						"lname": "TODO"
+					},
+					"kana": "TODO",
+					"translit": "TODO",
+					"western": "TODO"
+				},
+				"nicknames": [],
+				"birthday": {
+					"format": "TODO"
+				},
+				"height": "TODO",
+				"bloodtype": "TODO",
+				"agency": "TODO",
+				"gender": "female"
+			},
+			"age": 16,
+			"age_str": "16歳",
+			"height": "159cm",
+			"weight": "47kg",
+			"birthday": {
+				"month": 4,
+				"day": 15,
+				"format": "04-15",
+				"format_jp": "4月15日"
+			},
+			"bloodtype": "O",
+			"sizes": {
+				"value": "88-56-85",
+				"b": "88",
+				"w": "56",
+				"h": "85"
+			},
+			"color": "#454341",
+			"gender": "female",
+			"hobbies": [],
+			"hoobies": []
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "佐竹美奈子",
+					"fname": "TODO",
+					"lname": "TODO"
+				},
+				"kana": "さたけ みなこ",
+				"translit": "Satake Minako",
+				"western": "Minako Satake"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "大関英里",
+						"fname": "TODO",
+						"lname": "TODO"
+					},
+					"kana": "TODO",
+					"translit": "TODO",
+					"western": "TODO"
+				},
+				"nicknames": [],
+				"birthday": {
+					"format": "TODO"
+				},
+				"height": "TODO",
+				"bloodtype": "TODO",
+				"agency": "TODO",
+				"gender": "female"
+			},
+			"age": 18,
+			"age_str": "18歳",
+			"height": "158cm",
+			"weight": "45kg",
+			"birthday": {
+				"month": 3,
+				"day": 22,
+				"format": "03-22",
+				"format_jp": "3月22日"
+			},
+			"bloodtype": "O",
+			"sizes": {
+				"value": "86-54-82",
+				"b": "86",
+				"w": "54",
+				"h": "82"
+			},
+			"color": "#58a6dc",
+			"gender": "female",
+			"hobbies": [],
+			"hoobies": []
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "春日未来",
+					"fname": "TODO",
+					"lname": "TODO"
+				},
+				"kana": "かすが みらい",
+				"translit": "Kasuga Mirai",
+				"western": "Mirai Kasuga"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "山崎はるか",
+						"fname": "TODO",
+						"lname": "TODO"
+					},
+					"kana": "TODO",
+					"translit": "TODO",
+					"western": "TODO"
+				},
+				"nicknames": [],
+				"birthday": {
+					"format": "TODO"
+				},
+				"height": "TODO",
+				"bloodtype": "TODO",
+				"agency": "TODO",
+				"gender": "female"
+			},
+			"age": 14,
+			"age_str": "14歳",
+			"height": "156cm",
+			"weight": "42kg",
+			"birthday": {
+				"month": 6,
+				"day": 28,
+				"format": "06-28",
+				"format_jp": "6月28日"
+			},
+			"bloodtype": "O",
+			"sizes": {
+				"value": "78-54-77",
+				"b": "78",
+				"w": "54",
+				"h": "77"
+			},
+			"color": "#ea5b76",
+			"gender": "female",
+			"hobbies": [],
+			"hoobies": []
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "真壁瑞希",
+					"fname": "TODO",
+					"lname": "TODO"
+				},
+				"kana": "まかべ みずき",
+				"translit": "Makabe Mizuki",
+				"western": "Mizuki Makabe"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "阿部里果",
+						"fname": "TODO",
+						"lname": "TODO"
+					},
+					"kana": "TODO",
+					"translit": "TODO",
+					"western": "TODO"
+				},
+				"nicknames": [],
+				"birthday": {
+					"format": "TODO"
+				},
+				"height": "TODO",
+				"bloodtype": "TODO",
+				"agency": "TODO",
+				"gender": "female"
+			},
+			"age": 17,
+			"age_str": "17歳",
+			"height": "160cm",
+			"weight": "43kg",
+			"birthday": {
+				"month": 1,
+				"day": 27,
+				"format": "01-27",
+				"format_jp": "1月27日"
+			},
+			"bloodtype": "B",
+			"sizes": {
+				"value": "73-54-77",
+				"b": "73",
+				"w": "54",
+				"h": "77"
+			},
+			"color": "#99b7dc",
+			"gender": "female",
+			"hobbies": [],
+			"hoobies": []
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "周防桃子",
+					"fname": "TODO",
+					"lname": "TODO"
+				},
+				"kana": "すおう ももこ",
+				"translit": "Suou Momoko",
+				"western": "Momoko Suou"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "渡部恵子",
+						"fname": "TODO",
+						"lname": "TODO"
+					},
+					"kana": "TODO",
+					"translit": "TODO",
+					"western": "TODO"
+				},
+				"nicknames": [],
+				"birthday": {
+					"format": "TODO"
+				},
+				"height": "TODO",
+				"bloodtype": "TODO",
+				"agency": "TODO",
+				"gender": "female"
+			},
+			"age": 11,
+			"age_str": "11歳",
+			"height": "140cm",
+			"weight": "35kg",
+			"birthday": {
+				"month": 11,
+				"day": 6,
+				"format": "11-06",
+				"format_jp": "11月6日"
+			},
+			"bloodtype": "B",
+			"sizes": {
+				"value": "73-53-74",
+				"b": "73",
+				"w": "53",
+				"h": "74"
+			},
+			"color": "#efb864",
+			"gender": "female",
+			"hobbies": [],
+			"hoobies": []
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "横山奈緒",
+					"fname": "TODO",
+					"lname": "TODO"
+				},
+				"kana": "よこやま なお",
+				"translit": "Yokoyama Nao",
+				"western": "Nao Yokoyama"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "渡部優衣",
+						"fname": "TODO",
+						"lname": "TODO"
+					},
+					"kana": "TODO",
+					"translit": "TODO",
+					"western": "TODO"
+				},
+				"nicknames": [],
+				"birthday": {
+					"format": "TODO"
+				},
+				"height": "TODO",
+				"bloodtype": "TODO",
+				"agency": "TODO",
+				"gender": "female"
+			},
+			"age": 17,
+			"age_str": "17歳",
+			"height": "159cm",
+			"weight": "46kg",
+			"birthday": {
+				"month": 2,
+				"day": 12,
+				"format": "02-12",
+				"format_jp": "2月12日"
+			},
+			"bloodtype": "O",
+			"sizes": {
+				"value": "84-57-83",
+				"b": "84",
+				"w": "57",
+				"h": "83"
+			},
+			"color": "#788bc5",
+			"gender": "female",
+			"hobbies": [],
+			"hoobies": []
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "福田のり子",
+					"fname": "TODO",
+					"lname": "TODO"
+				},
+				"kana": "ふくだ のりこ",
+				"translit": "Fukuda Noriko",
+				"western": "Noriko Fukuda"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "浜崎奈々",
+						"fname": "TODO",
+						"lname": "TODO"
+					},
+					"kana": "TODO",
+					"translit": "TODO",
+					"western": "TODO"
+				},
+				"nicknames": [],
+				"birthday": {
+					"format": "TODO"
+				},
+				"height": "TODO",
+				"bloodtype": "TODO",
+				"agency": "TODO",
+				"gender": "female"
+			},
+			"age": 18,
+			"age_str": "18歳",
+			"height": "164cm",
+			"weight": "48kg",
+			"birthday": {
+				"month": 3,
+				"day": 30,
+				"format": "03-30",
+				"format_jp": "3月30日"
+			},
+			"bloodtype": "A",
+			"sizes": {
+				"value": "87-58-87",
+				"b": "87",
+				"w": "58",
+				"h": "87"
+			},
+			"color": "#eceb70",
+			"gender": "female",
+			"hobbies": [],
+			"hoobies": []
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "北上麗花",
+					"fname": "TODO",
+					"lname": "TODO"
+				},
+				"kana": "きたかみ れいか",
+				"translit": "Kitakami Reika",
+				"western": "Reika Kitakami"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "平山笑美",
+						"fname": "TODO",
+						"lname": "TODO"
+					},
+					"kana": "TODO",
+					"translit": "TODO",
+					"western": "TODO"
+				},
+				"nicknames": [],
+				"birthday": {
+					"format": "TODO"
+				},
+				"height": "TODO",
+				"bloodtype": "TODO",
+				"agency": "TODO",
+				"gender": "female"
+			},
+			"age": 20,
+			"age_str": "20歳",
+			"height": "164cm",
+			"weight": "47kg",
+			"birthday": {
+				"month": 5,
+				"day": 17,
+				"format": "05-17",
+				"format_jp": "5月17日"
+			},
+			"bloodtype": "A",
+			"sizes": {
+				"value": "84-58-84",
+				"b": "84",
+				"w": "58",
+				"h": "84"
+			},
+			"color": "#6bb6b0",
+			"gender": "female",
+			"hobbies": [],
+			"hoobies": []
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "百瀬莉緒",
+					"fname": "TODO",
+					"lname": "TODO"
+				},
+				"kana": "ももせ りお",
+				"translit": "Momose Rio",
+				"western": "Rio Momose"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "山口立花子",
+						"fname": "TODO",
+						"lname": "TODO"
+					},
+					"kana": "TODO",
+					"translit": "TODO",
+					"western": "TODO"
+				},
+				"nicknames": [],
+				"birthday": {
+					"format": "TODO"
+				},
+				"height": "TODO",
+				"bloodtype": "TODO",
+				"agency": "TODO",
+				"gender": "female"
+			},
+			"age": 23,
+			"age_str": "23歳",
+			"height": "168cm",
+			"weight": "46kg",
+			"birthday": {
+				"month": 11,
+				"day": 21,
+				"format": "11-21",
+				"format_jp": "11月21日"
+			},
+			"bloodtype": "A",
+			"sizes": {
+				"value": "84-57-84",
+				"b": "84",
+				"w": "57",
+				"h": "84"
+			},
+			"color": "#f19591",
+			"gender": "female",
+			"hobbies": [],
+			"hoobies": []
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "伴田路子",
+					"fname": "TODO",
+					"lname": "TODO"
+				},
+				"kana": "はんだ ろこ",
+				"translit": "Handa Roco",
+				"western": "Roco Handa"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "中村温姫",
+						"fname": "TODO",
+						"lname": "TODO"
+					},
+					"kana": "TODO",
+					"translit": "TODO",
+					"western": "TODO"
+				},
+				"nicknames": [],
+				"birthday": {
+					"format": "TODO"
+				},
+				"height": "TODO",
+				"bloodtype": "TODO",
+				"agency": "TODO",
+				"gender": "female"
+			},
+			"age": 15,
+			"age_str": "15歳",
+			"height": "154cm",
+			"weight": "42kg",
+			"birthday": {
+				"month": 3,
+				"day": 1,
+				"format": "03-01",
+				"format_jp": "3月1日"
+			},
+			"bloodtype": "AB",
+			"sizes": {
+				"value": "78-57-77",
+				"b": "78",
+				"w": "57",
+				"h": "77"
+			},
+			"color": "#fff03c",
+			"gender": "female",
+			"hobbies": [],
+			"hoobies": []
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "高山紗代子",
+					"fname": "TODO",
+					"lname": "TODO"
+				},
+				"kana": "たかやま さよこ",
+				"translit": "Takayama Sayoko",
+				"western": "Sayoko Takayama"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "駒形友梨",
+						"fname": "TODO",
+						"lname": "TODO"
+					},
+					"kana": "TODO",
+					"translit": "TODO",
+					"western": "TODO"
+				},
+				"nicknames": [],
+				"birthday": {
+					"format": "TODO"
+				},
+				"height": "TODO",
+				"bloodtype": "TODO",
+				"agency": "TODO",
+				"gender": "female"
+			},
+			"age": 17,
+			"age_str": "17歳",
+			"height": "156cm",
+			"weight": "42kg",
+			"birthday": {
+				"month": 12,
+				"day": 29,
+				"format": "12-29",
+				"format_jp": "12月29日"
+			},
+			"bloodtype": "A",
+			"sizes": {
+				"value": "82-55-80",
+				"b": "82",
+				"w": "55",
+				"h": "80"
+			},
+			"color": "#7f6575",
+			"gender": "female",
+			"hobbies": [],
+			"hoobies": []
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "箱崎星梨花",
+					"fname": "TODO",
+					"lname": "TODO"
+				},
+				"kana": "はこざき せりか",
+				"translit": "Hakozaki Serika",
+				"western": "Serika Hakozaki"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "麻倉もも",
+						"fname": "TODO",
+						"lname": "TODO"
+					},
+					"kana": "TODO",
+					"translit": "TODO",
+					"western": "TODO"
+				},
+				"nicknames": [],
+				"birthday": {
+					"format": "TODO"
+				},
+				"height": "TODO",
+				"bloodtype": "TODO",
+				"agency": "TODO",
+				"gender": "female"
+			},
+			"age": 13,
+			"age_str": "13歳",
+			"height": "146cm",
+			"weight": "37kg",
+			"birthday": {
+				"month": 2,
+				"day": 20,
+				"format": "02-20",
+				"format_jp": "2月20日"
+			},
+			"bloodtype": "O",
+			"sizes": {
+				"value": "74-54-76",
+				"b": "74",
+				"w": "54",
+				"h": "76"
+			},
+			"color": "#ed90ba",
+			"gender": "female",
+			"hobbies": [],
+			"hoobies": []
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "北沢志保",
+					"fname": "TODO",
+					"lname": "TODO"
+				},
+				"kana": "きたざわ しほ",
+				"translit": "Kitazawa Shiho",
+				"western": "Shiho Kitazawa"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "雨宮天",
+						"fname": "TODO",
+						"lname": "TODO"
+					},
+					"kana": "TODO",
+					"translit": "TODO",
+					"western": "TODO"
+				},
+				"nicknames": [],
+				"birthday": {
+					"format": "TODO"
+				},
+				"height": "TODO",
+				"bloodtype": "TODO",
+				"agency": "TODO",
+				"gender": "female"
+			},
+			"age": 14,
+			"age_str": "14歳",
+			"height": "161cm",
+			"weight": "46kg",
+			"birthday": {
+				"month": 1,
+				"day": 18,
+				"format": "01-18",
+				"format_jp": "1月18日"
+			},
+			"bloodtype": "A",
+			"sizes": {
+				"value": "83-56-84",
+				"b": "83",
+				"w": "56",
+				"h": "84"
+			},
+			"color": "#afa690",
+			"gender": "female",
+			"hobbies": [],
+			"hoobies": []
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "最上静香",
+					"fname": "TODO",
+					"lname": "TODO"
+				},
+				"kana": "もがみ しずか",
+				"translit": "Mogami Shizuka",
+				"western": "Shizuka Mogami"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "田所あずさ",
+						"fname": "TODO",
+						"lname": "TODO"
+					},
+					"kana": "TODO",
+					"translit": "TODO",
+					"western": "TODO"
+				},
+				"nicknames": [],
+				"birthday": {
+					"format": "TODO"
+				},
+				"height": "TODO",
+				"bloodtype": "TODO",
+				"agency": "TODO",
+				"gender": "female"
+			},
+			"age": 14,
+			"age_str": "14歳",
+			"height": "162cm",
+			"weight": "44kg",
+			"birthday": {
+				"month": 9,
+				"day": 14,
+				"format": "09-14",
+				"format_jp": "9月14日"
+			},
+			"bloodtype": "A",
+			"sizes": {
+				"value": "76-53-77",
+				"b": "76",
+				"w": "53",
+				"h": "77"
+			},
+			"color": "#6495cf",
+			"gender": "female",
+			"hobbies": [],
+			"hoobies": []
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "永吉昴",
+					"fname": "TODO",
+					"lname": "TODO"
+				},
+				"kana": "ながよし すばる",
+				"translit": "Nagayoshi Subaru",
+				"western": "Subaru Nagayoshi"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "斉藤佑圭",
+						"fname": "TODO",
+						"lname": "TODO"
+					},
+					"kana": "TODO",
+					"translit": "TODO",
+					"western": "TODO"
+				},
+				"nicknames": [],
+				"birthday": {
+					"format": "TODO"
+				},
+				"height": "TODO",
+				"bloodtype": "TODO",
+				"agency": "TODO",
+				"gender": "female"
+			},
+			"age": 15,
+			"age_str": "15歳",
+			"height": "154cm",
+			"weight": "41kg",
+			"birthday": {
+				"month": 9,
+				"day": 20,
+				"format": "09-20",
+				"format_jp": "9月20日"
+			},
+			"bloodtype": "B",
+			"sizes": {
+				"value": "79-59-78",
+				"b": "79",
+				"w": "59",
+				"h": "78"
+			},
+			"color": "#aeb49c",
+			"gender": "female",
+			"hobbies": [],
+			"hoobies": []
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "大神環",
+					"fname": "TODO",
+					"lname": "TODO"
+				},
+				"kana": "おがみ たまき",
+				"translit": "Ogami Tamaki",
+				"western": "Tamaki Ogami"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "稲川絵里",
+						"fname": "TODO",
+						"lname": "TODO"
+					},
+					"kana": "TODO",
+					"translit": "TODO",
+					"western": "TODO"
+				},
+				"nicknames": [],
+				"birthday": {
+					"format": "TODO"
+				},
+				"height": "TODO",
+				"bloodtype": "TODO",
+				"agency": "TODO",
+				"gender": "female"
+			},
+			"age": 12,
+			"age_str": "12歳",
+			"height": "147cm",
+			"weight": "39kg",
+			"birthday": {
+				"month": 4,
+				"day": 29,
+				"format": "04-29",
+				"format_jp": "4月29日"
+			},
+			"bloodtype": "B",
+			"sizes": {
+				"value": "76-51-77",
+				"b": "76",
+				"w": "51",
+				"h": "77"
+			},
+			"color": "ee762e",
+			"gender": "female",
+			"hobbies": [],
+			"hoobies": []
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "天空橋朋花",
+					"fname": "TODO",
+					"lname": "TODO"
+				},
+				"kana": "てんくばし ともか",
+				"translit": "Tenkubashi Tomoka",
+				"western": "Tomoka Tenkubashi"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "小岩井ことり",
+						"fname": "TODO",
+						"lname": "TODO"
+					},
+					"kana": "TODO",
+					"translit": "TODO",
+					"western": "TODO"
+				},
+				"nicknames": [],
+				"birthday": {
+					"format": "TODO"
+				},
+				"height": "TODO",
+				"bloodtype": "TODO",
+				"agency": "TODO",
+				"gender": "female"
+			},
+			"age": 15,
+			"age_str": "15歳",
+			"height": "156cm",
+			"weight": "41kg",
+			"birthday": {
+				"month": 11,
+				"day": 11,
+				"format": "11-11",
+				"format_jp": "11月11日"
+			},
+			"bloodtype": "AB",
+			"sizes": {
+				"value": "80-56-79",
+				"b": "80",
+				"w": "56",
+				"h": "79"
+			},
+			"color": "#bee3e3",
+			"gender": "female",
+			"hobbies": [],
+			"hoobies": []
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "伊吹翼",
+					"fname": "TODO",
+					"lname": "TODO"
+				},
+				"kana": "いぶき つばさ",
+				"translit": "Ibuki Tsubasa",
+				"western": "Tsubasa Ibuki"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "<a",
+						"fname": "TODO",
+						"lname": "TODO"
+					},
+					"kana": "TODO",
+					"translit": "TODO",
+					"western": "TODO"
+				},
+				"nicknames": [],
+				"birthday": {
+					"format": "TODO"
+				},
+				"height": "TODO",
+				"bloodtype": "TODO",
+				"agency": "TODO",
+				"gender": "female"
+			},
+			"age": 14,
+			"age_str": "14歳",
+			"height": "158cm",
+			"weight": "43kg",
+			"birthday": {
+				"month": 7,
+				"day": 30,
+				"format": "07-30",
+				"format_jp": "7月30日"
+			},
+			"bloodtype": "B",
+			"sizes": {
+				"value": "85-52-82",
+				"b": "85",
+				"w": "52",
+				"h": "82"
+			},
+			"color": "#fed552",
+			"gender": "female",
+			"hobbies": [],
+			"hoobies": []
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "高坂海美",
+					"fname": "TODO",
+					"lname": "TODO"
+				},
+				"kana": "こうさか うみ",
+				"translit": "Kousaka Umi",
+				"western": "Umi Kousaka"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "上田麗奈",
+						"fname": "TODO",
+						"lname": "TODO"
+					},
+					"kana": "TODO",
+					"translit": "TODO",
+					"western": "TODO"
+				},
+				"nicknames": [],
+				"birthday": {
+					"format": "TODO"
+				},
+				"height": "TODO",
+				"bloodtype": "TODO",
+				"agency": "TODO",
+				"gender": "female"
+			},
+			"age": 16,
+			"age_str": "16歳",
+			"height": "155cm",
+			"weight": "45kg",
+			"birthday": {
+				"month": 8,
+				"day": 10,
+				"format": "08-10",
+				"format_jp": "8月10日"
+			},
+			"bloodtype": "O",
+			"sizes": {
+				"value": "82-57-84",
+				"b": "82",
+				"w": "57",
+				"h": "84"
+			},
+			"color": "#e9739b",
+			"gender": "female",
+			"hobbies": [],
+			"hoobies": []
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "七尾百合子",
+					"fname": "TODO",
+					"lname": "TODO"
+				},
+				"kana": "ななお ゆりこ",
+				"translit": "Nanao Yuriko",
+				"western": "Yuriko Nanao"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "伊藤美来",
+						"fname": "TODO",
+						"lname": "TODO"
+					},
+					"kana": "TODO",
+					"translit": "TODO",
+					"western": "TODO"
+				},
+				"nicknames": [],
+				"birthday": {
+					"format": "TODO"
+				},
+				"height": "TODO",
+				"bloodtype": "TODO",
+				"agency": "TODO",
+				"gender": "female"
+			},
+			"age": 15,
+			"age_str": "15歳",
+			"height": "154cm",
+			"weight": "41kg",
+			"birthday": {
+				"month": 3,
+				"day": 18,
+				"format": "03-18",
+				"format_jp": "3月18日"
+			},
+			"bloodtype": "B",
+			"sizes": {
+				"value": "78-56-80",
+				"b": "78",
+				"w": "56",
+				"h": "80"
+			},
+			"color": "#c7b83c",
+			"gender": "female",
+			"hobbies": [],
+			"hoobies": []
+		}
+	]
+}
