@@ -9,10 +9,11 @@ def usage
 	puts ""
 	puts "Modules:"
 	Dir.entries(DATA_DIR).each do |mod|
-		if mod.includes?(".json")
+		if mod.include?(".json")
 			puts "\t#{mod.split(".json")[0]}"
 		end
 	end
+	puts "\tall"
 	puts ""
 	puts "Options:"
 	puts "  --help\tDisplay this help message."
