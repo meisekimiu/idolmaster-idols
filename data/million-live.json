@@ -57,6 +57,7 @@
 			},
 			"color": "#eb613f",
 			"gender": "female",
+			"ml_type": "dance",
 			"hobbies": [
 				"スキップ"
 			],
@@ -122,6 +123,7 @@
 			},
 			"color": "#7e6ca8",
 			"gender": "female",
+			"ml_type": "vocal",
 			"hobbies": [
 				"オンラインゲーム"
 			],
@@ -187,6 +189,7 @@
 			},
 			"color": "#b54461",
 			"gender": "female",
+			"ml_type": "vocal",
 			"hobbies": [
 				"アイドルのデータ集め"
 			],
@@ -253,6 +256,7 @@
 			},
 			"color": "#e25a9b",
 			"gender": "female",
+			"ml_type": "dance",
 			"hobbies": [
 				"ショッピング"
 			],
@@ -319,6 +323,7 @@
 			},
 			"color": "#f19557",
 			"gender": "female",
+			"ml_type": "visual",
 			"hobbies": [
 				"カフェでアパレル誌チェック"
 			],
@@ -389,6 +394,7 @@
 			},
 			"color": "#9bce92",
 			"gender": "female",
+			"ml_type": "dance",
 			"hobbies": [
 				"パーティ"
 			],
@@ -454,6 +460,7 @@
 			},
 			"color": "#554171",
 			"gender": "female",
+			"ml_type": "dance",
 			"hobbies": [
 				"かるた遊び"
 			],
@@ -517,6 +524,7 @@
 			},
 			"color": "#7278a8",
 			"gender": "female",
+			"ml_type": "visual",
 			"hobbies": [
 				"献血"
 			],
@@ -582,6 +590,7 @@
 			},
 			"color": "#d1342c",
 			"gender": "female",
+			"ml_type": "vocal",
 			"hobbies": [
 				"ガーデニング"
 			],
@@ -648,6 +657,7 @@
 			},
 			"color": "#f7e78e",
 			"gender": "female",
+			"ml_type": "visual",
 			"hobbies": [
 				"アニメ鑑賞"
 			],
@@ -713,6 +723,7 @@
 			},
 			"color": "#d7385f",
 			"gender": "female",
+			"ml_type": "vocal",
 			"hobbies": [
 				"なし"
 			],
@@ -787,6 +798,7 @@
 			},
 			"color": "#f5ad3b",
 			"gender": "female",
+			"ml_type": "vocal",
 			"hobbies": [
 				"なんでも歌にすること"
 			],
@@ -853,6 +865,7 @@
 			},
 			"color": "#b63b40",
 			"gender": "female",
+			"ml_type": "visual",
 			"hobbies": [
 				"アロマテラピー"
 			],
@@ -923,6 +936,7 @@
 			},
 			"color": "#f1becb",
 			"gender": "female",
+			"ml_type": "dance",
 			"hobbies": [
 				"北米ドラマ鑑賞"
 			],
@@ -989,6 +1003,7 @@
 			},
 			"color": "#92cfbb",
 			"gender": "female",
+			"ml_type": "vocal",
 			"hobbies": [
 				"お風呂"
 			],
@@ -1062,6 +1077,7 @@
 			},
 			"color": "#5abfb7",
 			"gender": "female",
+			"ml_type": "visual",
 			"hobbies": [
 				"漫画あつめ"
 			],
@@ -1136,6 +1152,7 @@
 			},
 			"color": "#454341",
 			"gender": "female",
+			"ml_type": "visual",
 			"hobbies": [
 				"カラオケ"
 			],
@@ -1202,6 +1219,7 @@
 			},
 			"color": "#58a6dc",
 			"gender": "female",
+			"ml_type": "dance",
 			"hobbies": [
 				"格闘ゲーム"
 			],
@@ -1272,6 +1290,7 @@
 			},
 			"color": "#ea5b76",
 			"gender": "female",
+			"ml_type": "vocal",
 			"hobbies": [
 				"可愛い髪留めを集めること"
 			],
@@ -1340,6 +1359,7 @@
 			},
 			"color": "#d7a96b",
 			"gender": "female",
+			"ml_type": "visual",
 			"hobbies": [
 				"囲碁、将棋"
 			],
@@ -1403,6 +1423,7 @@
 			},
 			"color": "#99b7dc",
 			"gender": "female",
+			"ml_type": "dance",
 			"hobbies": [
 				"手品"
 			],
@@ -1467,6 +1488,7 @@
 			},
 			"color": "#efb864",
 			"gender": "female",
+			"ml_type": "visual",
 			"hobbies": [
 				"かわいいシール集め"
 			],
@@ -1545,6 +1567,7 @@
 			},
 			"color": "#788bc5",
 			"gender": "female",
+			"ml_type": "dance",
 			"hobbies": [
 				"銭湯＆温泉巡り"
 			],
@@ -1604,6 +1627,7 @@
 			},
 			"color": "#eceb70",
 			"gender": "female",
+			"ml_type": "dance",
 			"hobbies": [
 				"格闘技観戦"
 			],
@@ -1669,6 +1693,7 @@
 			},
 			"color": "#6bb6b0",
 			"gender": "female",
+			"ml_type": "dance",
 			"hobbies": [
 				"登山"
 			],
@@ -1751,6 +1776,7 @@
 			},
 			"color": "#f19591",
 			"gender": "female",
+			"ml_type": "dance",
 			"hobbies": [
 				"ヨガエクササイズ"
 			],
@@ -1816,6 +1842,7 @@
 			},
 			"color": "#fff03c",
 			"gender": "female",
+			"ml_type": "visual",
 			"hobbies": [
 				"物を作ること"
 			],
@@ -1885,6 +1912,7 @@
 			},
 			"color": "#7f6575",
 			"gender": "female",
+			"ml_type": "vocal",
 			"hobbies": [
 				"ハリネズミの飼育"
 			],
@@ -1951,6 +1979,7 @@
 			},
 			"color": "#ed90ba",
 			"gender": "female",
+			"ml_type": "vocal",
 			"hobbies": [
 				"バイオリン"
 			],
@@ -2021,6 +2050,7 @@
 			},
 			"color": "#afa690",
 			"gender": "female",
+			"ml_type": "visual",
 			"hobbies": [
 				"お気に入りの絵本を探すこと"
 			],
@@ -2091,6 +2121,7 @@
 			},
 			"color": "#6495cf",
 			"gender": "female",
+			"ml_type": "vocal",
 			"hobbies": [
 				"テニス"
 			],
@@ -2169,6 +2200,7 @@
 			},
 			"color": "#aeb49c",
 			"gender": "female",
+			"ml_type": "dance",
 			"hobbies": [
 				"野球"
 			],
@@ -2233,6 +2265,7 @@
 			},
 			"color": "ee762e",
 			"gender": "female",
+			"ml_type": "dance",
 			"hobbies": [
 				"探検"
 			],
@@ -2309,6 +2342,7 @@
 			},
 			"color": "#bee3e3",
 			"gender": "female",
+			"ml_type": "vocal",
 			"hobbies": [
 				"ファンに喜んでもらうこと"
 			],
@@ -2373,6 +2407,7 @@
 			},
 			"color": "#fed552",
 			"gender": "female",
+			"ml_type": "visual",
 			"hobbies": [
 				"遊びの計画をたてること"
 			],
@@ -2443,6 +2478,7 @@
 			},
 			"color": "#e9739b",
 			"gender": "female",
+			"ml_type": "dance",
 			"hobbies": [
 				"ボルダリング"
 			],
@@ -2507,6 +2543,7 @@
 			},
 			"color": "#c7b83c",
 			"gender": "female",
+			"ml_type": "visual",
 			"hobbies": [
 				"読書"
 			],
