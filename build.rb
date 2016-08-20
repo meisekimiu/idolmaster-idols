@@ -18,6 +18,7 @@ def usage
 	puts "Options:"
 	puts "  --help\tDisplay this help message."
 	puts "  --stdout\tOutput results of build to standard output instead of a file."
+	puts "  --assoc\tOutputs results as associative array"
 end
 
 def parse_modules(mods)
@@ -30,7 +31,7 @@ def parse_modules(mods)
 					mod_list.push m
 				end
 			end
-		elsif mod == "--stdout" then
+		elsif mod == "--stdout" || mod == "--assoc" then
 			#do nothing
 
 		#TODO:Add cg-all module eventually
@@ -49,6 +50,7 @@ end
 stdout = ARGV.include?("--stdout")
 modules = parse_modules ARGV
 idols = Array.new
+idols_assoc = Hash.new
 
 if !stdout then
 	puts "Building modules:"
@@ -62,7 +64,12 @@ modules.each do |mod|
 		jsondata = File.read(DATA_DIR+mod)
 		idoldata = JSON.parse(jsondata)["idols"]
 		idoldata.each do |idol|
-			idols.push idol
+			if ARGV.include?("--assoc") then
+				hash = idol["name"]["translit"].downcase.gsub(" ","_")
+				idols_assoc[hash] = idol
+			else
+				idols.push idol
+			end
 		end
 	else
 		STDERR.puts "Error: Module `#{mod}` not found. Exiting script."
@@ -70,7 +77,11 @@ modules.each do |mod|
 	end
 end
 
-out = {"idols"=>idols}
+if ARGV.include?("--assoc") then
+	out = idols_assoc
+else
+	out = {"idols"=>idols}
+end
 
 if stdout then
 	puts JSON.generate(out)
