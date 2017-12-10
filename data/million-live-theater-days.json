@@ -1,0 +1,140 @@
+{
+	"idols": [
+		{
+			"name": {
+				"kanji": {
+					"value": "桜守歌織",
+					"fname": "歌織",
+					"lname": "桜守"
+				},
+				"kana": "さくらもり かおり",
+				"translit": "Sakuramori Kaori",
+				"western": "Kaori Sakuramori"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "香里有佐",
+						"fname": "有佐",
+						"lname": "香里"
+					},
+					"kana": "こうり ありさ",
+					"translit": "Kouri Arisa",
+					"western": "Arisa Kouri"
+				},
+				"nicknames": [
+					{
+						"jp": "ありちゃん",
+						"translit": "Ari-chan"
+					},
+					{
+						"jp": "こーりー",
+						"translit": "Kourii"
+					}
+				],
+				"birthday": {
+					"month": 3,
+					"day": 13,
+					"format": "03-13",
+					"format_jp": "3月13日"
+				},
+				"bloodtype": "A",
+				"agency": "Aoni Production",
+				"gender": "female"
+			},
+			"age": 23,
+			"age_str": "23歳",
+			"height": "165cm",
+			"weight": "47kg",
+			"birthday": {
+				"month": 3,
+				"day": 27,
+				"format": "03-27",
+				"format_jp": "3月27日"
+			},
+			"bloodtype": "O",
+			"sizes": {
+				"value": "88-58-85",
+				"b": "88",
+				"w": "58",
+				"h": "85"
+			},
+			"color": "#152b65",
+			"gender": "female",
+			"ml_td_type": "angel",
+			"hobbies": [
+				"乗馬"
+			],
+			"hoobies": [
+				"Horse Riding"
+			]
+		},
+		{
+			"name": {
+				"kanji": {
+					"value": "白石紬",
+					"fname": "紬",
+					"lname": "白石"
+				},
+				"kana": "しらいし つむぎ",
+				"translit": "Shiraishi Tsumugi",
+				"western": "Tsumugi Shiraishi"
+			},
+			"seiyuu": {
+				"name": {
+					"kanji": {
+						"value": "南早紀",
+						"fname": "早紀",
+						"lname": "南"
+					},
+					"kana": "みなみ さき",
+					"translit": "Minami Saki",
+					"western": "Saki Minami"
+				},
+				"nicknames": [
+					{
+						"jp": "みなみちゃん",
+						"translit": "Minami-chan"
+					}
+				],
+				"birthday": {
+					"year": 1994,
+					"month": 3,
+					"day": 13,
+					"format": "1994-03-13",
+					"format_jp": "3月13日"
+				},
+				"agency": "81produce",
+				"gender": "female"
+			},
+			"age": 17,
+			"age_str": "17歳",
+			"height": "160cm",
+			"weight": "45kg",
+			"birthday": {
+				"month": 5,
+				"day": 29,
+				"format": "05-29",
+				"format_jp": "5月29日"
+			},
+			"bloodtype": "AB",
+			"sizes": {
+				"value": "82-56-83",
+				"b": "82",
+				"w": "56",
+				"h": "83"
+			},
+			"color": "#B5B1E1",
+			"gender": "female",
+			"ml_td_type": "fairy",
+			"hobbies": [
+				"庭園",
+				"甘味処の散策"
+			],
+			"hoobies": [
+				"Gardening",
+				"Touring for sweet shops "
+			]
+		}
+	]
+}
