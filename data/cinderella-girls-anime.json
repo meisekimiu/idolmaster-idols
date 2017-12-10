@@ -1,0 +1,935 @@
+{
+		"idols": [
+			{
+				"name": {
+					"kanji": {
+						"value": "双葉杏",
+						"fname": "杏",
+						"lname": "双葉"
+					},
+					"kana": "ふたば あんず",
+					"translit": "Futaba Anzu",
+					"western": "Anzu Futaba"
+				},
+				"seiyuu": {
+					"name": {
+						"kanji": {
+							"value": "五十嵐裕美",
+							"fname": "裕美",
+							"lname": "五十嵐"
+						},
+						"kana": "いがらし　ひろみ",
+						"translit": "Igarashi Hiromi",
+						"western": "Hiromi Igarashi"
+					},
+					"nicknames": [
+						{
+							"jp": "ゆきんこ",
+							"translit": "yukinko"
+						}
+					],
+					"birthday": {
+						"month": 12,
+						"day": 13,
+						"year": 1986,
+						"format": "1986-12-13",
+						"format_jp": "12月13日"
+					},
+					"bloodtype": "O",
+					"agency": "Mausu Promotion",
+					"gender": "female"
+				},
+				"age": 17,
+				"age_str": "17歳",
+				"height": "139cm",
+				"weight": "30kg",
+				"birthday": {
+					"month": 9,
+					"day": 2,
+					"format": "09-02",
+					"format_jp": "9月2日"
+				},
+				"bloodtype": "B",
+				"sizes": {
+					"value": "?-?-?"
+				},
+				"color": "#f19db4",
+				"gender": "female",
+				"dere_type": "cute",
+				"hobbies": [
+					"なし"
+				],
+				"hoobies": [
+					"None"
+				]
+			},
+			{
+				"name": {
+					"kanji": {
+						"value": "緒方智絵里",
+						"fname": "智絵里",
+						"lname": "緒方"
+					},
+					"kana": "おがた ちえり",
+					"translit": "Ogata Chieri",
+					"western": "Chieri Ogata"
+				},
+				"seiyuu": {
+					"name": {
+						"kanji": {
+							"value": "大空直美",
+							"fname": "直美",
+							"lname": "大空"
+						},
+						"kana": "おおぞら なおみ",
+						"translit": "Oozora Naomi",
+						"western": "Naomi Oozora"
+					},
+					"nicknames": [
+						{
+							"jp": "そらそら",
+							"translit": "sorasora"
+						}
+					],
+					"birthday": {
+						"month": 2,
+						"day": 4,
+						"year": 1989,
+						"format": "1989-02-04",
+						"format_jp": "2月4日"
+					},
+					"height": "153cm",
+					"bloodtype": "A",
+					"agency": "Aoni Production",
+					"gender": "female"
+				},
+				"age": 16,
+				"age_str": "16歳",
+				"height": "153cm",
+				"weight": "42kg",
+				"birthday": {
+					"month": 6,
+					"day": 11,
+					"format": "06-11",
+					"format_jp": "6月11日"
+				},
+				"bloodtype": "A",
+				"sizes": {
+					"value": "79-57-80",
+					"b": "79",
+					"w": "57",
+					"h": "80"
+				},
+				"color": "#8EBD61",
+				"gender": "female",
+				"dere_type": "cute",
+				"hobbies": [
+					"四葉のクローバー集め"
+				],
+				"hoobies": [
+					"Collecting four-leaf clovers"
+				]
+			},
+			{
+				"name": {
+					"kanji": {
+						"value": "三村かな子",
+						"fname": "かな子",
+						"lname": "三村"
+					},
+					"kana": "みむら かなこ",
+					"translit": "Mimura Kanako",
+					"western": "Kanako Mimura"
+				},
+				"seiyuu": {
+					"name": {
+						"kanji": {
+							"value": "大坪由佳",
+							"fname": "由佳",
+							"lname": "大坪"
+						},
+						"kana": "おおつぼ ゆか",
+						"translit": "Ootubo Yuka",
+						"western": "Yuka Ootsubo"
+					},
+					"nicknames": [
+						{
+							"jp": "つぼっち",
+							"translit": "Tsubocchi"
+						}
+					],
+					"birthday": {
+						"month": 6,
+						"day": 11,
+						"year": 1993,
+						"format": "1993-06-11",
+						"format_jp": "6月11日"
+					},
+					"height": "165.5cm",
+					"bloodtype": "O",
+					"agency": "Early Wing",
+					"gender": "female"
+				},
+				"age": 17,
+				"age_str": "17歳",
+				"height": "153cm",
+				"weight": "52kg",
+				"birthday": {
+					"month": 1,
+					"day": 6,
+					"format": "01-06",
+					"format_jp": "1月6日"
+				},
+				"bloodtype": "O",
+				"sizes": {
+					"value": "90-65-89",
+					"b": "90",
+					"w": "65",
+					"h": "89"
+				},
+				"color": "#F4ABB4",
+				"gender": "female",
+				"dere_type": "cute",
+				"hobbies": [
+					"お菓子作り"
+				],
+				"hoobies": [
+					"Making sweets"
+				]
+			},
+			{
+				"name": {
+					"kanji": {
+						"value": "前川みく",
+						"fname": "みく",
+						"lname": "前川"
+					},
+					"kana": "前川 みく",
+					"translit": "Maekawa Miku",
+					"western": "Miku Maekawa"
+				},
+				"seiyuu": {
+					"name": {
+						"kanji": {
+							"value": "高森奈津美",
+							"fname": "奈津美",
+							"lname": "高森"
+						},
+						"kana": "たかもり なつみ",
+						"translit": "Takamori Natsumi",
+						"western": "Natsumi Takamori"
+					},
+					"nicknames": [
+						{
+							"jp": "なつ姉",
+							"translit": "Natsunee"
+						}
+					],
+					"birthday": {
+						"month": 2,
+						"day": 14,
+						"year": 1987,
+						"format": "1987-02-14",
+						"format_jp": "2月14日"
+					},
+					"height": "159cm",
+					"bloodtype": "A",
+					"agency": "Pro-Fit",
+					"gender": "female"
+				},
+				"age": 15,
+				"age_str": "15歳",
+				"height": "152cm",
+				"weight": "45kg",
+				"birthday": {
+					"month": 2,
+					"day": 22,
+					"format": "02-22",
+					"format_jp": "2月22日"
+				},
+				"bloodtype": "B",
+				"sizes": {
+					"value": "85-55-81",
+					"b": "85",
+					"w": "55",
+					"h": "81"
+				},
+				"color": "#DF015B",
+				"gender": "female",
+				"dere_type": "cute",
+				"hobbies": [
+					"猫カフェ巡り"
+				],
+				"hoobies": [
+					"Visiting cat cafes"
+				]
+			},
+			{
+				"name": {
+					"kanji": {
+						"value": "島村卯月",
+						"fname": "卯月",
+						"lname": "島村"
+					},
+					"kana": "しまむら うづき",
+					"translit": "Shimamura Uzuki",
+					"western": "Uzuki Shimamura"
+				},
+				"seiyuu": {
+					"name": {
+						"kanji": {
+							"value": "大橋彩香",
+							"fname": "彩香",
+							"lname": "大橋"
+						},
+						"kana": "おおはし あやか",
+						"translit": "Oohashi Ayaka",
+						"western": "Ayaka Ohashi"
+					},
+					"nicknames": [
+						{
+							"jp": "はっしー",
+							"translit": "Hassy"
+						}
+					],
+					"birthday": {
+						"month": 9,
+						"day": 19,
+						"year": 1994,
+						"format": "1994-09-19",
+						"format_jp": "9月19日"
+					},
+					"height": "159cm",
+					"bloodtype": "A",
+					"agency": "Horipro",
+					"gender": "female"
+				},
+				"age": 17,
+				"age_str": "17歳",
+				"height": "159cm",
+				"weight": "45kg",
+				"birthday": {
+					"month": 4,
+					"day": 24,
+					"format": "04-24",
+					"format_jp": "4月24日"
+				},
+				"bloodtype": "O",
+				"sizes": {
+					"value": "83-59-84",
+					"b": "83",
+					"w": "59",
+					"h": "84"
+				},
+				"color": "#fa7497",
+				"gender": "female",
+				"dere_type": "cute",
+				"hobbies": [
+					"友達と長電話"
+				],
+				"hoobies": [
+					"Long phone calls with friends"
+				]
+			},
+			{
+				"name": {
+					"kanji": {
+						"value": "神崎蘭子",
+						"fname": "蘭子",
+						"lname": "神崎"
+					},
+					"kana": "かんざき らんこ",
+					"translit": "Kanzaki Ranko",
+					"western": "Ranko Kanzaki"
+				},
+				"seiyuu": {
+					"name": {
+						"kanji": {
+							"value": "内田真礼",
+							"fname": "真礼",
+							"lname": "内田"
+						},
+						"kana": "うちだ まあや",
+						"translit": "Uchida Maaya",
+						"western": "Maaya Uchida"
+					},
+					"nicknames": [
+						{
+							"jp": "まややん",
+							"translit": "Mayayan"
+						}
+					],
+					"birthday": {
+						"month": 12,
+						"day": 27,
+						"year": 1989,
+						"format": "1989-12-27",
+						"format_jp": "12月27日"
+					},
+					"height": "155cm",
+					"bloodtype": "A",
+					"agency": "I'm Enterprise",
+					"gender": "female"
+				},
+				"age": 14,
+				"age_str": "14歳",
+				"height": "156cm",
+				"weight": "41kg",
+				"birthday": {
+					"month": 4,
+					"day": 8,
+					"format": "04-08",
+					"format_jp": "4月8日"
+				},
+				"bloodtype": "A",
+				"sizes": {
+					"value": "81-57-80",
+					"b": "81",
+					"w": "57",
+					"h": "80"
+				},
+				"color": "#813a9a",
+				"gender": "female",
+				"dere_type": "cool",
+				"hobbies": [
+					"絵を描くこと"
+				],
+				"hoobies": [
+					"Drawing"
+				]
+			},
+			{
+				"name": {
+					"kanji": {
+						"value": "多田李衣菜",
+						"fname": "李衣菜",
+						"lname": "多田"
+					},
+					"kana": "ただ りいな",
+					"translit": "Tada Riina",
+					"western": "Riina Tada"
+				},
+				"seiyuu": {
+					"name": {
+						"kanji": {
+							"value": "青木瑠璃子",
+							"fname": "瑠璃子",
+							"lname": "青木"
+						},
+						"kana": "あおき るりこ",
+						"translit": "Aoki Ruriko",
+						"western": "Ruriko Aoki"
+					},
+					"nicknames": [
+						{
+							"jp": "るーりぃ",
+							"translit": "Ruuri"
+						}
+					],
+					"birthday": {
+						"month": 3,
+						"day": 24,
+						"year": 1990,
+						"format": "1990-03-24",
+						"format_jp": "3月24日"
+					},
+					"height": "170cm",
+					"bloodtype": "O",
+					"agency": "Atomic Monkey",
+					"gender": "female"
+				},
+				"age": 17,
+				"age_str": "17歳",
+				"height": "152cm",
+				"weight": "41kg",
+				"birthday": {
+					"month": 6,
+					"day": 30,
+					"format": "06-30",
+					"format_jp": "6月30日"
+				},
+				"bloodtype": "A",
+				"sizes": {
+					"value": "80-55-81",
+					"b": "80",
+					"w": "55",
+					"h": "81"
+				},
+				"color": "#007AC6",
+				"gender": "female",
+				"dere_type": "cool",
+				"hobbies": [
+					"音楽鑑賞"
+				],
+				"hoobies": [
+					"Listening to music"
+				]
+			},
+			{
+				"name": {
+					"kanji": {
+						"value": "アナスタシア"
+					},
+					"kana": "アナスタシア",
+					"translit": "Anastasia",
+					"western": "Anastasia"
+				},
+				"seiyuu": {
+					"name": {
+						"kanji": {
+							"value": "上坂すみれ",
+							"fname": "すみれ",
+							"lname": "上坂"
+						},
+						"kana": "うえさか すみれ",
+						"translit": "Uesaka Sumire",
+						"western": "Sumire Uesaka"
+					},
+					"nicknames": [
+						{
+							"jp": "すみぺ",
+							"translit": "Sumipe"
+						}
+					],
+					"birthday": {
+						"month": 12,
+						"day": 19,
+						"year": 1991,
+						"format": "1991-12-19",
+						"format_jp": "12月19日"
+					},
+					"height": "160cm",
+					"bloodtype": "O",
+					"agency": "Space Craft Entertainment",
+					"gender": "female"
+				},
+				"age": 15,
+				"age_str": "15歳",
+				"height": "165cm",
+				"weight": "43kg",
+				"birthday": {
+					"month": 9,
+					"day": 19,
+					"format": "09-19",
+					"format_jp": "9月19日"
+				},
+				"bloodtype": "O",
+				"sizes": {
+					"value": "80-54-80",
+					"b": "80",
+					"w": "54",
+					"h": "80"
+				},
+				"color": "#a8c0e6",
+				"gender": "female",
+				"dere_type": "cool",
+				"hobbies": [
+					"天体観測",
+					"ホームパーティ"
+				],
+				"hoobies": [
+					"Stargazing",
+					"Attending House Parties"
+				]
+			},
+			{
+				"name": {
+					"kanji": {
+						"value": "新田美波",
+						"fname": "美波",
+						"lname": "新田"
+					},
+					"kana": "にった みなみ",
+					"translit": "Nitta Minami",
+					"western": "Minami Nitta"
+				},
+				"seiyuu": {
+					"name": {
+						"kanji": {
+							"value": "洲崎綾",
+							"fname": "綾",
+							"lname": "洲崎"
+						},
+						"kana": "すざき あや",
+						"translit": "Suzaki Aya",
+						"western": "Aya Suzaki"
+					},
+					"nicknames": [
+						{
+							"jp": "あやっぺ",
+							"translit": "Ayappe"
+						}
+					],
+					"birthday": {
+						"month": 12,
+						"day": 25,
+						"year": 1986,
+						"format": "1986-12-25",
+						"format_jp": "12月25日"
+					},
+					"bloodtype": "O",
+					"agency": "I'm Enterprise",
+					"gender": "female"
+				},
+				"age": 19,
+				"age_str": "19歳",
+				"height": "165cm",
+				"weight": "45kg",
+				"birthday": {
+					"month": 7,
+					"day": 27,
+					"format": "07-27",
+					"format_jp": "7月27日"
+				},
+				"bloodtype": "O",
+				"sizes": {
+					"value": "82-55-85",
+					"b": "82",
+					"w": "55",
+					"h": "85"
+				},
+				"color": "#82cdf4",
+				"gender": "female",
+				"dere_type": "cool",
+				"hobbies": [
+					"ラクロス",
+					"資格取得"
+				],
+				"hoobies": [
+					"Lacrosse"
+				]
+			},
+			{
+				"name": {
+					"kanji": {
+						"value": "渋谷凜",
+						"fname": "凜",
+						"lname": "渋谷"
+					},
+					"kana": "しぶや りん",
+					"translit": "Shibuya Rin",
+					"western": "Rin Shibuya"
+				},
+				"seiyuu": {
+					"name": {
+						"kanji": {
+							"value": "福原綾香",
+							"fname": "綾香",
+							"lname": "福原"
+						},
+						"kana": "ふくはら あやか",
+						"translit": "Fukuhara Ayaka",
+						"western": "Ayaka Fukuhara"
+					},
+					"nicknames": [
+						{
+							"jp": "ふーりん",
+							"translit": "Fuurin"
+						}
+					],
+					"birthday": {
+						"month": 12,
+						"day": 31,
+						"year": 1989,
+						"format": "1989-12-31",
+						"format_jp": "12月31日"
+					},
+					"agency": "VIMS",
+					"gender": "female"
+				},
+				"age": 15,
+				"age_str": "15歳",
+				"height": "165cm",
+				"weight": "44kg",
+				"birthday": {
+					"month": 8,
+					"day": 10,
+					"format": "08-10",
+					"format_jp": "8月10日"
+				},
+				"bloodtype": "B",
+				"sizes": {
+					"value": "80-56-81",
+					"b": "80",
+					"w": "56",
+					"h": "81"
+				},
+				"color": "#0195db",
+				"gender": "female",
+				"dere_type": "cool",
+				"hobbies": [
+					"犬の散歩"
+				],
+				"hoobies": [
+					"Dog-walking"
+				]
+			},
+			{
+				"name": {
+					"kanji": {
+						"value": "諸星きらり",
+						"fname": "きらり",
+						"lname": "諸星"
+					},
+					"kana": "もろぼし きらり",
+					"translit": "Moroboshi Kirari",
+					"western": "Kirari Moroboshi"
+				},
+				"seiyuu": {
+					"name": {
+						"kanji": {
+							"value": "松嵜麗",
+							"fname": "麗",
+							"lname": "松嵜"
+						},
+						"kana": "まつざき れい",
+						"translit": "Matsuzaki Rei",
+						"western": "Rei Matsuzaki"
+					},
+					"nicknames": [
+						{
+							"jp": "れいちゃま",
+							"translit": "Reichama"
+						}
+					],
+					"birthday": {
+						"month": 5,
+						"day": 31,
+						"year": 1985,
+						"format": "1985-05-31",
+						"format_jp": "5月31日"
+					},
+					"height": "155cm",
+					"bloodtype": "B",
+					"agency": "Mausu Promotion",
+					"gender": "female"
+				},
+				"age": 17,
+				"age_str": "17歳",
+				"height": "182cm",
+				"weight": "60kg",
+				"birthday": {
+					"month": 9,
+					"day": 1,
+					"format": "09-01",
+					"format_jp": "9月1日"
+				},
+				"bloodtype": "O",
+				"sizes": {
+					"value": "91-64-86",
+					"b": "91",
+					"w": "64",
+					"h": "86"
+				},
+				"color": "#F7BC5F",
+				"gender": "female",
+				"dere_type": "passion",
+				"hobbies": [
+					"かわいい物集め"
+				],
+				"hoobies": [
+					"Collecting cute things"
+				]
+			},
+			{
+				"name": {
+					"kanji": {
+						"value": "城ヶ崎莉嘉",
+						"fname": "莉嘉",
+						"lname": "城ヶ崎"
+					},
+					"kana": "じょうがさき りか",
+					"translit": "Jougasaki Rika",
+					"western": "Rika Jougasaki"
+				},
+				"seiyuu": {
+					"name": {
+						"kanji": {
+							"value": "山本希望",
+							"fname": "希望",
+							"lname": "山本"
+						},
+						"kana": "やまもと のぞみ",
+						"translit": "Yamamoto Nozomi",
+						"western": "Nozomi Yamamoto"
+					},
+					"nicknames": [
+						{
+							"jp": "のんたん",
+							"translit": "Nontan"
+						}
+					],
+					"birthday": {
+						"month": 8,
+						"day": 9,
+						"year": 1988,
+						"format": "1988-08-09",
+						"format_jp": "8月9日"
+					},
+					"height": "160cm",
+					"bloodtype": "O",
+					"agency": "VIMS",
+					"gender": "female"
+				},
+				"age": 12,
+				"age_str": "12歳",
+				"height": "149cm",
+				"weight": "36kg",
+				"birthday": {
+					"month": 7,
+					"day": 30,
+					"format": "07-30",
+					"format_jp": "7月30日"
+				},
+				"bloodtype": "B",
+				"sizes": {
+					"value": "72-54-75",
+					"b": "72",
+					"w": "54",
+					"h": "75"
+				},
+				"color": "#fff100",
+				"gender": "female",
+				"dere_type": "passion",
+				"hobbies": [
+					"シール集め"
+				],
+				"hoobies": [
+					"Collecting stickers"
+				]
+			},
+			{
+				"name": {
+					"kanji": {
+						"value": "赤城みりあ",
+						"fname": "みりあ",
+						"lname": "赤城"
+					},
+					"kana": "あかぎ みりあ",
+					"translit": "Akagi Miria",
+					"western": "Miria Akagi"
+				},
+				"seiyuu": {
+					"name": {
+						"kanji": {
+							"value": "黒沢ともよ",
+							"fname": "ともよ",
+							"lname": "黒沢"
+						},
+						"kana": "くろさわ ともよ",
+						"translit": "Kurosawa Tomoyo",
+						"western": "Tomoyo Kurosawa"
+					},
+					"nicknames": [
+						{
+							"jp": "もよちー",
+							"translit": "Moyochi"
+						}
+					],
+					"birthday": {
+						"month": 4,
+						"day": 10,
+						"year": 1996,
+						"format": "1996-04-10",
+						"format_jp": "4月10日"
+					},
+					"height": "150cm",
+					"agency": "Mausu Production",
+					"gender": "female"
+				},
+				"age": 11,
+				"age_str": "11歳",
+				"height": "140cm",
+				"weight": "36kg",
+				"birthday": {
+					"month": 4,
+					"day": 14,
+					"format": "04-14",
+					"format_jp": "4月14日"
+				},
+				"bloodtype": "AB",
+				"sizes": {
+					"value": "75-55-78",
+					"b": "75",
+					"w": "55",
+					"h": "78"
+				},
+				"color": "#ffb200",
+				"gender": "female",
+				"dere_type": "passion",
+				"hobbies": [
+					"おしゃべり"
+				],
+				"hoobies": [
+					"Chatting"
+				]
+			},
+			{
+				"name": {
+					"kanji": {
+						"value": "本田未央",
+						"fname": "未央",
+						"lname": "本田"
+					},
+					"kana": "ほんだ みお",
+					"translit": "Honda Mio",
+					"western": "Mio Honda"
+				},
+				"seiyuu": {
+					"name": {
+						"kanji": {
+							"value": "原紗友里",
+							"fname": "紗友里",
+							"lname": "原"
+						},
+						"kana": "はら さゆり",
+						"translit": "Hara Sayuri",
+						"western": "Sayuri Hara"
+					},
+					"nicknames": [
+						{
+							"jp": "飯屋",
+							"translit": "Meshiya"
+						}
+					],
+					"birthday": {
+						"month": 11,
+						"day": 5,
+						"year": 1988,
+						"format": "1988-11-05",
+						"format_jp": "11月5日"
+					},
+					"height": "154cm",
+					"bloodtype": "A",
+					"agency": "81produce",
+					"gender": "female"
+				},
+				"age": 15,
+				"age_str": "15歳",
+				"height": "161cm",
+				"weight": "46kg",
+				"birthday": {
+					"month": 12,
+					"day": 1,
+					"format": "12-01",
+					"format_jp": "12月1日"
+				},
+				"bloodtype": "B",
+				"sizes": {
+					"value": "84-58-87",
+					"b": "84",
+					"w": "58",
+					"h": "87"
+				},
+				"color": "#f5b226",
+				"gender": "female",
+				"dere_type": "passion",
+				"hobbies": [
+					"ショッピング"
+				],
+				"hoobies": [
+					"Shopping"
+				]
+			}
+		]
+}
