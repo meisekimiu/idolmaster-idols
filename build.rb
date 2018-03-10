@@ -16,6 +16,7 @@ def usage
 	puts ""
 	puts "Special modules:"
 	puts "\tmillion-stars (Both million-live and million-live-theater-days modules)"
+	puts "\tall-idols (All of the main idol modules. No Kotori...)"
 	puts "\tall (All of the provided modules)"
 	puts ""
 	puts "Options:"
@@ -30,10 +31,12 @@ def parse_modules(mods)
 	modules = mods
 	mod_list = Array.new
 	modules.each do |mod|
-		if mod == "all" then
+		if mod == "all" || mod == "all-idols" then
 			Dir.entries(DATA_DIR).each do |m|
 				if m != "." && m != ".."
-					mod_list.push m
+					if mod != "all-idols" || m != "kotori"
+						mod_list.push m
+					end
 				end
 			end
 		elsif mod == "million-stars" then
