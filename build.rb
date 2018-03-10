@@ -13,12 +13,17 @@ def usage
 			puts "\t#{mod.split(".json")[0]}"
 		end
 	end
-	puts "\tall"
+	puts ""
+	puts "Special modules:"
+	puts "\tmillion-stars (Both million-live and million-live-theater-days modules)"
+	puts "\tall (All of the provided modules)"
 	puts ""
 	puts "Options:"
 	puts "  --help\tDisplay this help message."
 	puts "  --stdout\tOutput results of build to standard output instead of a file."
-	puts "  --assoc\tOutputs results as associative array"
+	puts "  --assoc\tOutputs results as an object/associative array"
+	puts "  --modinf\tAdds module info fields to idol data"
+	puts "  --master\tCombines --assoc and --modinf options for best results"
 end
 
 def parse_modules(mods)
@@ -31,7 +36,9 @@ def parse_modules(mods)
 					mod_list.push m
 				end
 			end
-		elsif mod == "--stdout" || mod == "--assoc" then
+		elsif mod == "million-stars" then
+			mod_list.push "million-live.json","million-live-theater-days.json"
+		elsif mod == "--stdout" || mod == "--assoc" || mod == "--modinf" || mod == "--master" then
 			#do nothing
 
 		#TODO:Add cg-all module eventually
@@ -64,7 +71,10 @@ modules.each do |mod|
 		jsondata = File.read(DATA_DIR+mod)
 		idoldata = JSON.parse(jsondata)["idols"]
 		idoldata.each do |idol|
-			if ARGV.include?("--assoc") then
+			if ARGV.include?("--modinf") || ARGV.include?("--master") then
+				idol["module"] = mod.split(".")[0]
+			end
+			if ARGV.include?("--assoc") || ARGV.include?("--master") then
 				hash = idol["name"]["translit"].downcase.gsub(" ","_")
 				idols_assoc[hash] = idol
 			else
@@ -77,7 +87,7 @@ modules.each do |mod|
 	end
 end
 
-if ARGV.include?("--assoc") then
+if ARGV.include?("--assoc") || ARGV.include?("--master") then
 	out = idols_assoc
 else
 	out = {"idols"=>idols}
@@ -86,6 +96,6 @@ end
 if stdout then
 	puts JSON.generate(out)
 else
-	File.write("idols.json",JSON.generate(out))
-	puts "Output to "+Dir.pwd+"/idols.json"
+	File.write(File.dirname(__FILE__)+"/dist/idols.json",JSON.generate(out))
+	puts "Output to "+File.dirname(__FILE__)+"/dist/idols.json"
 end
